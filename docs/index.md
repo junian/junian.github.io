@@ -5,7 +5,7 @@ Hi 👋, I'm **Junian** the **Software Engineer** with **11+** years of experien
 This website provides a unique collection of small and useful software, libraries, tools, and themes that I developed.
 
 [![Junian GitHub account](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "Junian GitHub Account")](https://github.com/junian)
-[![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
+[![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 
 **[Resume](/resume/)** - **[Ideas](/ideas/)** - **[Uses](/uses/)** - **[Now](/now/)** - **[Contact](/contact/)** - **[About](/about/)**
 
