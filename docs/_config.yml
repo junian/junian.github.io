@@ -2,7 +2,7 @@ title: Junian.dev
 description: Software Engineer
 show_downloads: false
 google_analytics: G-MKQK789F6L
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
 
 markdown: kramdown
 
