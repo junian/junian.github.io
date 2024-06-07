@@ -1,7 +1,32 @@
 ---
 ---
 
-@import "jekyll-theme-primer";
+@import "{{ site.theme }}";
+
+/*
+.main-content h2 {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #eff0f1;
+}
+
+.main-content dl {
+  display: grid;
+  grid-template-columns: auto max-content;
+}
+
+.main-content dl dt {
+  grid-column-start: 1;
+  margin-top: 0rem;
+  font-weight: normal;
+}
+
+.main-content dl dd {
+  margin-inline-start: 0;
+  margin-bottom: 0rem;
+  text-align: right;
+}
+*/
 
 .markdown-body dl dt {
     font-style: normal;
