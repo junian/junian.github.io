@@ -1,4 +1,4 @@
-# [Junian.dev](/) - What I Use
+# What I Use
 
 ```
   ___ ___ _______ _______ _______ 
