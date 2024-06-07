@@ -9,6 +9,11 @@ This website provides a unique collection of small and useful software, librarie
 
 **[Resume](/resume/)** - **[Ideas](/ideas/)** - **[Uses](/uses/)** - **[Now](/now/)** - **[Contact](/contact/)** - **[About](/about/)**
 
+## Websites
+
+- [GoDo.Dev](https://www.godo.dev/) - I document my problem-solving steps on this website so I won't forget.
+- [Junian.Net](https://www.junian.net/) - Personal blog about tech and hobby.
+  
 ## Desktop apps
 - [Termission](/termission/) - Cross-platform Serial (COM Port Data Emulator)/TCP Terminal with Scriptable Auto-Response.
 - [Serial Device Emulator](/serial-device-emulator/) - Windows Serial (COM Port Data Emulator) Terminal with C# Auto-Response.
