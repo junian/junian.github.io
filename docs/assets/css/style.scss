@@ -2,3 +2,8 @@
 ---
 
 @import "jekyll-theme-primer";
+
+.markdown-body dl dt {
+    font-style: normal;
+    font-weight: 400;
+}
