@@ -5,8 +5,9 @@ redirect_from:
   - /cv/
 ---
 
-# [Junian Triajianto](https://www.junian.dev/)
+# Resume
 
+<!--
 Software engineer with C# and JavaScript experience
   : <span class="iconify" data-icon="charm:person"></span> [junian.dev](https://www.junian.dev/)<br><span class="iconify" data-icon="ic:outline-location-on"></span> Surabaya, Indonesia
 
@@ -14,6 +15,7 @@ Software engineer with C# and JavaScript experience
 
 <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/junian](https://github.com/junian)<br><span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/junian](https://www.linkedin.com/in/junian/)
   : <span class="iconify" data-icon="tabler:phone"></span> [(+62) 8xx-xxxx-xx87](https://wa.me/628xxxxxxxx87)<br><span class="iconify" data-icon="tabler:mail"></span> [jt@junian.dev](mailto:jt@junian.dev)
+-->
 
 ## Experience
 
