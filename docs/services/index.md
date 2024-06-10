@@ -1,8 +1,17 @@
-# Hire me
+---
+layout: post
+title: "Hire Junian for Software Development Job"
+redirect_from:
+  - /hire/
+---
+
+## Hire me!
 
 Full-Stack Developer | GenAI | Automation | Reverse Engineering
 
 **Price**: USD 40.00/hr
+
+Hire me on [**Upwork**](/upwork/).
 
 ## 🎯 Services
 
@@ -48,3 +57,6 @@ Full-Stack Developer | GenAI | Automation | Reverse Engineering
 - MacBook Air M1 (macOS)
 - iPhone 15 Pro (iOS)
 - Samsung Galaxy S10 (Android)
+
+Hire me on [**Upwork**](/upwork/).
+
