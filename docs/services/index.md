@@ -11,7 +11,7 @@ Full-Stack Developer | GenAI | Automation | Reverse Engineering
 
 **Price**: USD 40.00/hr
 
-Hire me on [**Upwork**](/upwork/).
+[![Hire Junian on Upwork](https://img.shields.io/badge/Book_a_call_with_Junian-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](/upwork/)
 
 ## 🎯 Services
 
@@ -58,5 +58,10 @@ Hire me on [**Upwork**](/upwork/).
 - iPhone 15 Pro (iOS)
 - Samsung Galaxy S10 (Android)
 
-Hire me on [**Upwork**](/upwork/).
+---
 
+**Are you ready? Or do you still need more information?**
+
+👇 Either way, feel free to contact me.
+
+[![Hire Junian on Upwork](https://img.shields.io/badge/Book_a_call_with_Junian-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](/upwork/)
