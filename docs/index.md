@@ -7,7 +7,7 @@ This website provides a unique collection of small and useful software, librarie
 [![Junian GitHub account](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "Junian GitHub Account")](https://github.com/junian)
 [![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 
-**[Services](./services/)** - **[Resume](./resume/)** - **[Ideas](./ideas/)** - **[Uses](./uses/)** - **[Now](./now/)** - **[Contact](./contact/)** - **[About](./about/)**
+**[Services](./services/)** - **[Resume](./resume/)** - **[Ideas](./ideas/)** - **[Uses](./uses/)** - **[Now](./now/)** - **[About](./about/)**
 
 ## Websites
 
