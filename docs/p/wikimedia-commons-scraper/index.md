@@ -24,4 +24,4 @@ Automated system to download public pictures from Wikimedia Commons.
   
 ---
 
-Want something like this? Hire me on [Upwork](/upwork/).
+Want something like this? [**Hire me**](/hire/)!
