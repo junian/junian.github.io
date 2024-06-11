@@ -8,10 +8,16 @@ title: Wikipedia and Wikimedia Commons Scraper
 
 ## Description
 
-This is a demo to download Paintings from Wikimedia Commons automatically
+- Download paintings and pictures from Wikimedia Commons automatically.
+- The highest quality is downloaded for better printing.
+- Multithreading for faster process.
 
-## Tech Stack
-
-- C#
-- WinForms
+ ## Tech Stack
+ 
+- C# / .NET Framework. 
+- Windows Forms (WinForms) as front-end. 
+- SQLite as Database.
   
+---
+
+Want something like this? Hire me on [Upwork](/upwork/).
