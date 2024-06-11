@@ -25,4 +25,4 @@ Sudoku Meets Knight Tour.
 
 ---
 
-Want something like this? Hire me on [Upwork](/upwork/).
+Want something like this? [**Hire me**](/hire/)!
