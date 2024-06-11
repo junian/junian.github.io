@@ -37,6 +37,11 @@
     font-weight: 400;
 }
 
+.markdown-body img[align=left] {
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
 .youtube-iframe {
   aspect-ratio: 16 / 9;
   width: 100%;
