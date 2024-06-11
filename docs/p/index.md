@@ -2,22 +2,17 @@
 title: Portfolio and Sample Works
 ---
 
-## Wikipedia and Wikimedia Commons Web Scraper
-
 <!--
 <a href="./wikimedia-commons-scraper/">
   <img align="left" width="176" height="99" src="https://i.ytimg.com/vi/_BeI7Uu2GO0/mqdefault.jpg" />
 </a>
 -->
 
-[![](https://i.ytimg.com/vi/_BeI7Uu2GO0/mqdefault.jpg)](./wikimedia-commons-scraper/)
-
-- Automated system to download public pictures from Wikimedia Commons.
-- **Tech Stack**: C#, WinForms, SQLite
-
-[**Read More**](./wikimedia-commons-scraper/)
-
-## SUKEIMA Puzzle Creator
+| Screenshot | Description |
+|-|-|
+| [![](https://i.ytimg.com/vi/_BeI7Uu2GO0/mqdefault.jpg)](./wikimedia-commons-scraper/) | **Wikipedia + Wikimedia Commons Web Scraper**<br><br>Automated system to download public pictures from Wikimedia Commons.<br>**Tech Stack**: C#, WinForms, SQLite<br><br>[**Read More**](./wikimedia-commons-scraper/) |
+| [![](https://i.ytimg.com/vi/An_tdG8PZGA/mqdefault.jpg)](./sukeima/) | **SUKEIMA Puzzle Creator**<br><br>Sudoku Meets Knight Tour.<br>**Tech Stack**: C#, WPF, SQLite, Excel<br><br>[**Read More**](./sukeima/) |
+| [![](https://i.ytimg.com/vi/ZKwrOLgueik/mqdefault.jpg)](./woocommerce-sync/) | **WooCommerce Product Sync and Automation**<br><br>Sync and download WooCommerce product feeds automatically.<br>**Tech Stack**: C#, WinForms, SQLite<br><br>[**Read More**](./woocommerce-sync/) |
 
 <!--
 <a href="./sukeima/">
@@ -25,27 +20,15 @@ title: Portfolio and Sample Works
 </a>
 -->
 
-[![](https://i.ytimg.com/vi/An_tdG8PZGA/mqdefault.jpg)](./sukeima/)
-
-- Sudoku Meets Knight Tour.
-- **Tech Stack**: C#, WPF, SQLite, Excel
-
-[**Read More**](./sukeima/)
-
-## WooCommerce Product Sync and Automation
-
 <!--
 <a href="./woocommerce-sync/">
   <img align="left" width="176" height="99" src="https://i.ytimg.com/vi/ZKwrOLgueik/mqdefault.jpg" />
 </a>
 -->
 
-[![](https://i.ytimg.com/vi/ZKwrOLgueik/mqdefault.jpg)](./woocommerce-sync/)
 
-- Sync and download WooCommerce product feeds automatically.
-- **Tech Stack**: C#, WinForms, SQLite
 
-[**Read More**](./woocommerce-sync/)
+
 
 ---
 
