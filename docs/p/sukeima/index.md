@@ -18,3 +18,7 @@ description: Easily generate Sudoku-like Puzzle levels
 - C# / .NET Framework. 
 - Windows Presentation Foundation (WPF) as front-end. 
 - SQLite as Database.
+
+---
+
+Want something like this? Hire me on [Upwork](/upwork/).
