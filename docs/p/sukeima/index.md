@@ -3,6 +3,10 @@ title: SUKEIMA Puzzle Creator
 description: Easily generate Sudoku-like Puzzle levels
 ---
 
+## SUKEIMA Puzzle Creator
+
+Sudoku Meets Knight Tour.
+
 <p>
   <iframe class="youtube-iframe" src="https://www.youtube.com/embed/An_tdG8PZGA?si=ksCZeajxWADnIe2l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
@@ -13,7 +17,7 @@ description: Easily generate Sudoku-like Puzzle levels
 - This is a demonstration of the Desktop App where you can generate unlimited puzzles.
 - They can be saved as PNG and Excel files.
 
- ## Tech Stack
+## Tech Stack
  
 - C# / .NET Framework. 
 - Windows Presentation Foundation (WPF) as front-end. 
