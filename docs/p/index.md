@@ -5,7 +5,7 @@ title: Portfolio and Sample Works
 ## WooCommerce Product Sync and Automation
 
 <a href="./woocommerce-sync/">
-  <img align="left" width="176" height="99" src="https://i3.ytimg.com/vi/ZKwrOLgueik/maxresdefault.jpg" />
+  <img align="left" width="176" height="99" src="https://i.ytimg.com/vi/ZKwrOLgueik/mqdefault.jpg" />
 </a>
 
 Sync and download WooCommerce product feeds automatically.
@@ -18,7 +18,7 @@ Sync and download WooCommerce product feeds automatically.
 ## Wikipedia and Wikimedia Commons Web Scraper
 
 <a href="./wikimedia-commons-scraper/">
-  <img align="left" width="176" height="99" src="https://i3.ytimg.com/vi/_BeI7Uu2GO0/maxresdefault.jpg" />
+  <img align="left" width="176" height="99" src="https://i.ytimg.com/vi/_BeI7Uu2GO0/mqdefault.jpg" />
 </a>
 
 Automated system to download public pictures from Wikimedia Commons.
@@ -30,7 +30,7 @@ Tech Stack: C#, WinForms, SQLite
 ## SUKEIMA Puzzle Creator
 
 <a href="./sukeima/">
-  <img align="left" width="176" height="99" src="https://i3.ytimg.com/vi/An_tdG8PZGA/maxresdefault.jpg" />
+  <img align="left" width="176" height="99" src="https://i.ytimg.com/vi/An_tdG8PZGA/mqdefault.jpg" />
 </a>
 
 Sudoku Meets Knight Tour.
