@@ -1,6 +1,7 @@
 ---
 title: SUKEIMA Puzzle Creator
 description: Easily generate Sudoku-like Puzzle levels
+layout: portfolio
 ---
 
 ## SUKEIMA Puzzle Creator
