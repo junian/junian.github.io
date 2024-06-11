@@ -1,5 +1,6 @@
 ---
 title: Wikipedia and Wikimedia Commons Scraper
+layout: portfolio
 ---
 
 ##  Wikipedia and Wikimedia Commons Scraper
@@ -21,7 +22,4 @@ Automated system to download public pictures from Wikimedia Commons.
 - C# / .NET Framework. 
 - Windows Forms (WinForms) as front-end. 
 - SQLite as Database.
-  
----
 
-Want something like this? [**Hire me**](/hire/)!
