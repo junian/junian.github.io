@@ -22,7 +22,3 @@ Sudoku Meets Knight Tour.
 - C# / .NET Framework. 
 - Windows Presentation Foundation (WPF) as front-end. 
 - SQLite as Database.
-
----
-
-Want something like this? [**Hire me**](/hire/)!
