@@ -2,11 +2,7 @@
 title: Portfolio and Sample Works
 ---
 
-<!--
-<a href="./wikimedia-commons-scraper/">
-  <img align="left" width="176" height="99" src="https://i.ytimg.com/vi/_BeI7Uu2GO0/mqdefault.jpg" />
-</a>
--->
+## Portfolio and Work Samples
 
 <table>
  <tr>
