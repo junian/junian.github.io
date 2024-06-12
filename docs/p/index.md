@@ -1,4 +1,5 @@
 ---
+layout: portfolio-index
 title: Portfolio and Sample Works
 ---
 
