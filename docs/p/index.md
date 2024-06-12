@@ -8,27 +8,60 @@ title: Portfolio and Sample Works
 </a>
 -->
 
-| Screenshot | Description |
-|-|-|
-| [![](https://i.ytimg.com/vi/_BeI7Uu2GO0/mqdefault.jpg)](./wikimedia-commons-scraper/) | **Wikipedia + Wikimedia Commons Web Scraper**<br><br>Automated system to download public pictures from Wikimedia Commons.<br>**Tech Stack**: C#, WinForms, SQLite<br><br>[**Read More**](./wikimedia-commons-scraper/) |
-| [![](https://i.ytimg.com/vi/An_tdG8PZGA/mqdefault.jpg)](./sukeima/) | **SUKEIMA Puzzle Creator**<br><br>Sudoku Meets Knight Tour.<br>**Tech Stack**: C#, WPF, SQLite, Excel<br><br>[**Read More**](./sukeima/) |
-| [![](https://i.ytimg.com/vi/ZKwrOLgueik/mqdefault.jpg)](./woocommerce-sync/) | **WooCommerce Product Sync and Automation**<br><br>Sync and download WooCommerce product feeds automatically.<br>**Tech Stack**: C#, WinForms, SQLite<br><br>[**Read More**](./woocommerce-sync/) |
+<table>
+ <tr>
+  <th>Preview</th>
+  <th>Description</th>
+ </tr>
+ <tr>
+  <td>
 
-<!--
-<a href="./sukeima/">
-  <img align="left" width="176" height="99" src="https://i.ytimg.com/vi/An_tdG8PZGA/mqdefault.jpg" />
-</a>
--->
+[![](https://i.ytimg.com/vi/_BeI7Uu2GO0/mqdefault.jpg)](./wikimedia-commons-scraper/)
 
-<!--
-<a href="./woocommerce-sync/">
-  <img align="left" width="176" height="99" src="https://i.ytimg.com/vi/ZKwrOLgueik/mqdefault.jpg" />
-</a>
--->
+  </td>
+  <td>
 
+**Wikipedia + Wikimedia Commons Web Scraper**
 
+Automated system to download public pictures from Wikimedia Commons.<br>**Tech Stack**: C#, WinForms, SQLite
 
+[**Read More**](./wikimedia-commons-scraper/)
 
+  </td>
+ </tr>
+ <tr>
+  <td>
+
+[![](https://i.ytimg.com/vi/An_tdG8PZGA/mqdefault.jpg)](./sukeima/)
+
+  </td>
+  <td>
+
+**SUKEIMA Puzzle Creator**
+
+Sudoku Meets Knight Tour.<br>**Tech Stack**: C#, WPF, SQLite, Excel
+
+[**Read More**](./sukeima/)
+
+  </td>
+ </tr>
+ <tr>
+  <td>
+
+[![](https://i.ytimg.com/vi/ZKwrOLgueik/mqdefault.jpg)](./woocommerce-sync/)
+
+  </td>
+  <td>
+
+**WooCommerce Product Sync and Automation**
+
+Sync and download WooCommerce product feeds automatically.<br>**Tech Stack**: C#, WinForms, SQLite
+
+[**Read More**](./woocommerce-sync/)
+     
+  </td>
+ </tr>
+</table>
 
 ---
 
