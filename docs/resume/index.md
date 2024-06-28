@@ -5,31 +5,26 @@ redirect_from:
   - /cv/
 ---
 
-# Resume
-
-<!--
-Software engineer with C# and JavaScript experience
-  : <span class="iconify" data-icon="charm:person"></span> [junian.dev](https://www.junian.dev/)<br><span class="iconify" data-icon="ic:outline-location-on"></span> Surabaya, Indonesia
-
----
-
-<span class="iconify" data-icon="tabler:brand-github"></span> [github.com/junian](https://github.com/junian)<br><span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/junian](https://www.linkedin.com/in/junian/)
-  : <span class="iconify" data-icon="tabler:phone"></span> [(+62) 8xx-xxxx-xx87](https://wa.me/628xxxxxxxx87)<br><span class="iconify" data-icon="tabler:mail"></span> [jt@junian.dev](mailto:jt@junian.dev)
--->
+# [Junian Triajianto](https://www.junian.dev/) - Resume
 
 ## Experience
+
+**Senior Full-Stack Developer** | [Upwork](https://www.upwork.com/freelancers/~01e5c1fb94555ee2d7) | California, United States
+  : **Jan 2024 - Present**
+
+- Consulted, designed, and implemented bespoke software solutions for diverse client needs.
 
 **Senior Software Engineer** | [Emsisoft](https://www.emsisoft.com/) | Nelson, New Zealand
   : **Jul 2022 - Jan 2024**
 
-- Spearheaded the development of security-focused Desktop software from inception.
+- Led the development of security-focused Desktop software from inception.
 - Transformed a TCP-based Web API server into a native daemon/Windows service, cutting overhead by 50%.
 - Implemented gRPC to replace JSON-RPC for inter-service communication, reducing data payload size by 30%.
 
 **Senior Software Engineer** | [HardPress Publishing](https://hardpress.net/) | Sligo, Ireland
   : **Jan 2019 - Jun 2022**
 
-- Architected and developed purchasing automation software for an Amazon eCommerce merchant.
+- Designed and developed purchasing automation software for an Amazon eCommerce merchant.
 - Reduced manual purchasing order time from 4 hours to 10 minutes daily.
 - Automated numerous business processes, reducing manual efforts by 90%.
 
@@ -37,13 +32,12 @@ Software engineer with C# and JavaScript experience
   : **Nov 2017 - Jan 2019**
 
 - Developed a desktop app for milk tank cooling control.
-- Leveraged a cross-platform framework, cutting development time by 30% while maintaining performance close to native.
+- Used a cross-platform framework to cut development time by 30% while maintaining near-native performance.
 - Introduced and managed CI/CD workflow, halving manual tasks.
 
 **Full-Stack Developer** | [Upwork](https://www.upwork.com/freelancers/~01e5c1fb94555ee2d7) | California, United States
   : **Apr 2014 - Nov 2017**
 
-- Consulted, designed, and implemented bespoke software solutions for diverse client needs.
 - Completed 80+ projects with an average rating of 4.9/5.0.
 - Recognized as a Top Rated Freelancer since 2015, consistently delivering exceptional results.
 - Represent the top 10% of talent on Upwork.
@@ -65,7 +59,7 @@ Software engineer with C# and JavaScript experience
 
 ## Skills
 
-- **Languages**: C#, C/C++, TypeScript, JavaScript, Python, Go, PHP, Dart
+- **Languages**: C#, TypeScript, JavaScript, Python, Go, C/C++, PHP, Dart
 - **Frameworks**: .NET, MAUI, WinForms, WPF, WinUI, ReactiveUI, Rx.NET, Xamarin, ASP.NET, SignalR, Blazor, Laravel, Django, Flutter, React, Nuxt, Vue, Angular
 - **Databases**: SQLite, Microsoft SQL Server, MySQL/MariaDB, PostgreSQL
 - **Tools**: Git, Docker, CI/CD
