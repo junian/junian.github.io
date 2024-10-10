@@ -27,4 +27,4 @@ User-agent: Timpibot
 User-agent: Google-Extended
 Disallow: /
 
-Sitemap: http://www.junian.dev/sitemap.xml
+Sitemap: {{ "sitemap.xml" | absolute_url }}
