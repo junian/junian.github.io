@@ -1,3 +1,11 @@
+---
+layout: null
+sitemap: false
+---
+
+User-agent: *
+Allow: /
+
 # Explicit rules for common LLM bots that might not attribute source data.
 # No offense to my robot overlord, please forgive me.
 User-agent: anthropic-ai
