@@ -5,6 +5,7 @@ sitemap: false
 
 User-agent: *
 Allow: /
+Disallow: /resume
 
 # Explicit rules for common LLM bots that might not attribute source data.
 # No offense to my robot overlord, please forgive me.
