@@ -2,20 +2,24 @@
 
 Hi 👋, I'm **Junian** the **Software Engineer** with **10+** years of experience.
 
-This website provides a unique collection of small and useful software, libraries, tools, and themes that I developed.
+Here is a collection of small and useful software, libraries, tools, and themes that I developed.
 
+[![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.net/)
+[![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
+ "Junian YouTube Channel")](https://www.youtube.com/@JunianDev?sub_confirmation=1)
 [![Junian GitHub account](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "Junian GitHub Account")](https://github.com/junian)
 
 <!--
 [![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
--->
+
 
 **[Portfolio](./p/)** - **[Resume](./resume/)** - **[About](./about/)**
 
+-->
+
 ## Websites
 
-- [GoDo.Dev](https://www.godo.dev/) - I document my problem-solving steps on this website so I won't forget.
-- [Junian.Net](https://www.junian.net/) - Personal blog about tech and hobby.
+- [Junian Network](https://www.junian.net/) - Personal blog about tech and dev.
   
 ## Desktop apps
 - [Termission](./termission/) - Cross-platform Serial (COM Port Data Emulator)/TCP Terminal with Scriptable Auto-Response.
