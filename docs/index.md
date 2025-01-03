@@ -20,7 +20,7 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 ## Websites and Web Apps
 
 - [Junian Network](https://www.junian.net/) - Personal blog about tech and dev.
-- [Blazor Apps][./blazor-apps/] - Collection of browser-based mini tools, built with Blazor.
+- [Blazor Apps](./blazor-apps/) - Collection of browser-based mini tools, built with Blazor.
   
 ## Desktop apps
 - [Termission](./termission/) - Cross-platform Serial (COM Port Data Emulator)/TCP Terminal with Scriptable Auto-Response.
