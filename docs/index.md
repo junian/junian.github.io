@@ -19,8 +19,10 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 
 ## Websites and Web Apps
 
-- [Junian Network](https://www.junian.net/) - Personal blog about tech and dev.
-- [Blazor Apps](./blazor-apps/) - Collection of browser-based mini tools, built with Blazor.
+- [Junian.NET](https://www.junian.net/) - Personal blog about tech and dev.
+- [Blazor Apps](./blazor-apps/) - Browser-based mini tools, built with Blazor ([YouTube thumbnail extractor](./blazor-apps/get-youtube-thumbnail/), etc.).
+- [Markdown Resume](./markdown-resume/) - Write your Resume in Markdown. ATS-friendly and optimized for developers.
+- [pajak](./pajak/) - This is only for Indonesian fellows who want to submit tax reports each year, but always forget the net percentage of their revenue.
   
 ## Desktop apps
 - [Termission](./termission/) - Cross-platform Serial (COM Port Data Emulator)/TCP Terminal with Scriptable Auto-Response.
@@ -33,11 +35,6 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 - [Standard.Licensing](./Standard.Licensing/) - Easy-to-use licensing library for .NET Framework, Mono, .NET Core, and Xamarin products.
 - [SharpExifTool](./SharpExifTool/) - C# Wrapper for ExifTool by Phil Harvey. Available for Windows, macOS, and Linux.
 - [MvvmReady](./mvvmready/) - Make your cross-platform MVVM-ready with only a single binary/file.
-
-## Online Web Tools
-
-- [Markdown Resume](./markdown-resume/) - Write your Resume in Markdown. ATS-friendly and optimized for developers.
-- [pajak](./pajak/) - This is only for Indonesian fellows who want to submit tax reports each year, but always forget the net percentage of their revenue.
 
 ## Command-line Tools
 
