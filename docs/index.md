@@ -51,6 +51,11 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 
 ### Recent Blog Posts
 <!-- feed start -->
+- Jan 03 - [How I Accidentally Discovered Crypto-Miner Malware (perfctl) on an Ubuntu Server](https://www.junian.net/tech/ubuntu-perfctl-malware-mongodb-not-running/)
+- Dec 23 - [How to Use TP-Link Tether Without a TP-Link ID](https://www.junian.net/tech/tp-link-tether-without-tp-link-id/)
+- Dec 22 - [How to Call ChatGPT with the Google Voice App](https://www.junian.net/tech/google-voice-chatgpt-call/)
+- Dec 19 - [How to Update Safari without macOS Upgrade](https://www.junian.net/tech/update-safari-without-macos-upgrade/)
+- Dec 17 - [Automating Git Cleanup Across Multiple Directories with a Shell Script](https://www.junian.net/dev/multiple-git-repos-cleanup/)
 <!-- feed end -->
 [**[See More]**](https://www.junian.net/)
 
