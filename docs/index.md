@@ -49,7 +49,7 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 
 - [Galaxy Distance Relationship](./ggj14-gdr/) - A platformer game with a twist.
 
-### Recent Blog Posts
+## Recent Blog Posts
 <!-- feed start -->
 - Jan 03 - [How I Accidentally Discovered Crypto-Miner Malware (perfctl) on an Ubuntu Server](https://www.junian.net/tech/ubuntu-perfctl-malware-mongodb-not-running/)
 - Dec 23 - [How to Use TP-Link Tether Without a TP-Link ID](https://www.junian.net/tech/tp-link-tether-without-tp-link-id/)
