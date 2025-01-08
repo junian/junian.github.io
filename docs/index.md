@@ -49,6 +49,11 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 
 - [Galaxy Distance Relationship](./ggj14-gdr/) - A platformer game with a twist.
 
+### Recent Blog Posts
+<!-- feed start -->
+<!-- feed end -->
+[**[See More]**](https://www.junian.net/)
+
 ---
 
 Made with ☕ by [Junian.dev](https://www.junian.dev).
