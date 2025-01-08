@@ -23,6 +23,6 @@ jobs:
       - name: push to raw
         if: steps.feed.outputs.changed == true
         id: commit
-        uses: sarisia/actions-commit@raw
+        uses: sarisia/actions-commit@master
         with:
           message: "docs: update feed"
