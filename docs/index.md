@@ -57,6 +57,7 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 - Dec 19 - [How to Update Safari without macOS Upgrade](https://www.junian.net/tech/update-safari-without-macos-upgrade/)
 - Dec 17 - [Automating Git Cleanup Across Multiple Directories with a Shell Script](https://www.junian.net/dev/multiple-git-repos-cleanup/)
 <!-- feed end -->
+
 [**[See More]**](https://www.junian.net/)
 
 ---
