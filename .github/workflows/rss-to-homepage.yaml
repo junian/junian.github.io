@@ -1,0 +1,28 @@
+name: 'Blog Feed to README'
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.feed.outputs.changed }}
+      items: ${{ steps.feed.outputs.items }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: https://www.junian.net/index.xml
+          file: 'docs/index.md'
+          timezone: 'Asia/Jakarta'
+          ensure_all: true
+      - name: push to raw
+        if: steps.feed.outputs.changed == true
+        id: commit
+        uses: sarisia/actions-commit@raw
+        with:
+          message: "docs: update feed"
