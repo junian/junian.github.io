@@ -19,7 +19,6 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 
 ## Websites and Web Apps
 
-- [Junian.NET](https://www.junian.net/) - Personal blog about tech and dev.
 - [Blazor Apps](./blazor-apps/) - Browser-based mini tools, built with Blazor ([YouTube thumbnail extractor](./blazor-apps/get-youtube-thumbnail/), etc.).
 - [Markdown Resume](./markdown-resume/) - Write your Resume in Markdown. ATS-friendly and optimized for developers.
 - [Encrypted DNS Configs for Apple Devices](./apple-encrypted-dns/) - A collection of encrypted DNS configuration for Apple Devices such as macOS, iOS, and iPadOS. So you'll be able to use DNS-Over-HTTPS (DOH) without installing any app.
