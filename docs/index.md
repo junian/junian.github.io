@@ -6,7 +6,7 @@ Here is a collection of small and useful software, libraries, tools, and themes 
 
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
- "Junian YouTube Channel")](https://www.youtube.com/@JunianDev?sub_confirmation=1)
+ "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
 [![Junian GitHub account](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "Junian GitHub Account")](https://github.com/junian)
 
 <!--
