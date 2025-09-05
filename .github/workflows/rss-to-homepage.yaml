@@ -19,7 +19,7 @@ jobs:
           url: |
             https://www.junian.net/dev/index.xml
             https://www.junian.net/tech/index.xml
-          file: 'README.md'
+          file: 'docs/index.md'
           format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
           timezone: 'Asia/Jakarta'
           max_entry: 5
@@ -30,7 +30,7 @@ jobs:
         id: youtube-feed
         with:
           url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCepvZYlW1tWJ8bu3dWLQh2w'
-          file: 'README.md'
+          file: 'docs/index.md'
           format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
           timezone: 'Asia/Jakarta'
           max_entry: 5
