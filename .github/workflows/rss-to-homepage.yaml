@@ -14,14 +14,31 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
-        id: feed
+        id: blog-feed
         with:
-          url: https://www.junian.net/index.xml
-          file: 'docs/index.md'
+          url: |
+            https://www.junian.net/dev/index.xml
+            https://www.junian.net/tech/index.xml
+          file: 'README.md'
+          format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
           timezone: 'Asia/Jakarta'
+          max_entry: 5
+          start_flag: '<!-- blog feed start -->'
+          end_flag: '<!-- blog feed end -->'
           ensure_all: true
-      - name: push to raw
-        if: steps.feed.outputs.changed == true
+      - uses: sarisia/actions-readme-feed@v1
+        id: youtube-feed
+        with:
+          url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCepvZYlW1tWJ8bu3dWLQh2w'
+          file: 'README.md'
+          format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
+          timezone: 'Asia/Jakarta'
+          max_entry: 5
+          start_flag: '<!-- youtube feed start -->'
+          end_flag: '<!-- youtube feed end -->'
+          ensure_all: true
+      - name: push to master
+        if: steps.blog-feed.outputs.changed == true || steps.youtube-feed.outputs.changed == true
         id: commit
         uses: sarisia/actions-commit@master
         with:
