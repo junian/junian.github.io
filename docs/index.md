@@ -47,19 +47,26 @@ Hi 👋, I'm **Junian** the **Software Engineer** with **5+** years of experienc
 
 - [Galaxy Distance Relationship](./ggj14-gdr/) - A platformer game with a twist.
 
-## Recent Blog Posts
-<!-- feed start -->
-- Feb 13 - [Solving the Xamarin.Forms iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.junian.net/dev/xamarin-forms-ios-framework-idedistribution-issue/)
-- Feb 13 - [freeCodeCamp Responsive Web Design Learning Journey](https://www.junian.net/dev/learn-freecodecamp-responsive-web-design/)
-- Jan 29 - [Elevate Your Tech Business: Building a Powerful Social Media Presence with Adobe Express](https://www.junian.net/tech/building-a-powerful-social-media-presence-with-adobe-express/)
-- Jan 03 - [How I Accidentally Discovered Crypto-Miner Malware (perfctl) on an Ubuntu Server](https://www.junian.net/tech/ubuntu-perfctl-malware-mongodb-not-running/)
-- Dec 23 - [How to Use TP-Link Tether Without a TP-Link ID](https://www.junian.net/tech/tp-link-tether-without-tp-link-id/)
-<!-- feed end -->
+## 📝 Recent Blog Posts
 
-[**[See More]**](https://www.junian.net/)
+<!-- blog feed start -->
+<!-- blog feed end -->
+
+> [**[See more]**](https://www.junian.net/)
+
+## 🎬 Recent YouTube Videos
+
+<!-- youtube feed start -->
+<!-- youtube feed end -->
+
+> [**[See more]**](https://www.junian.net/yt/)
 
 ---
 
 Made with ☕ by [Junian.dev](https://www.junian.dev).
 
+<!--
+
 **[Ideas](./ideas/)** - **[Uses](./uses/)** - **[Now](./now/)**
+
+-->
