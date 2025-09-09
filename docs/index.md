@@ -4,7 +4,7 @@ title: Junian.dev
 
 <div align="center">
 
-<a href="/" alt="Junian.dev Home Page"><img src="https://github.com/junian.png" width="128px" class="circle"></a>
+<a href="/" alt="Junian.dev Home Page"><img src="https://github.com/junian.png" width="128px" class="color-bg-default border circle"></a>
 
 # Junian.dev
 
