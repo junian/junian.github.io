@@ -25,14 +25,14 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 
 -->
 
-## Websites and Web Apps
+## 💻 Websites and Web Apps
 
 - [Blazor Apps](./blazor-apps/) - Browser-based mini tools, built with Blazor ([YouTube thumbnail extractor](./blazor-apps/get-youtube-thumbnail/), etc.).
 - [Markdown Resume](./markdown-resume/) - Write your Resume in Markdown. ATS-friendly and optimized for developers.
 - [Encrypted DNS Configs for Apple Devices](./apple-encrypted-dns/) - A collection of encrypted DNS configuration for Apple Devices such as macOS, iOS, and iPadOS. So you'll be able to use DNS-Over-HTTPS (DOH) without installing any app.
 - [pajak](./pajak/) - This is only for Indonesian fellows who want to submit tax reports each year, but always forget the net percentage of their revenue.
   
-## Desktop apps
+## 🖥️ Desktop apps
 - [Termission](./termission/) - Cross-platform Serial (COM Port Data Emulator)/TCP Terminal with Scriptable Auto-Response.
 - [Serial Device Emulator](./serial-device-emulator/) - Windows Serial (COM Port Data Emulator) Terminal with C# Auto-Response.
 - [AutoKams](./AutoKams/) - Automatic Image Capture Through Computer-Attached Cameras.<br />
@@ -52,8 +52,9 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## Themes
 
 - [Hugo Fokus Theme](./hugo-fokus/) - Simple, minimalist, lightweight them for the Hugo website. Based on Bootstrap 3 for maximum backward compatibility.
+- [Jekyll Link in Bio Theme](./jekyll-linkinbio/) - Simple Linktree Clone for Jekyll (GitHub Pages) based on littlelink.
 
-## Games
+## 🎮 Games
 
 - [Galaxy Distance Relationship](./ggj14-gdr/) - A platformer game with a twist.
 
