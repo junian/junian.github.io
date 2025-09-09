@@ -1,4 +1,8 @@
-# [Junian.dev](/)
+<div align="center">
+
+<a href="/" alt="Junian.dev Home Page"><img src="https://github.com/junian.png" width="128px"></a>
+
+# Junian.dev
 
 Hi 👋, I'm **Junian** the **Software Engineer** with **5+** years of experience.
 
@@ -6,6 +10,8 @@ Hi 👋, I'm **Junian** the **Software Engineer** with **5+** years of experienc
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
  "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
 [![Junian GitHub account](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "Junian GitHub Account")](https://github.com/junian)
+
+</div>
 
 <!--
 [![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
