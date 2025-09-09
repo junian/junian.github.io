@@ -8,7 +8,7 @@ title: Junian.dev
 
 # Junian.dev
 
-Hi 👋, I'm **Junian** the **Software Engineer** with **5+** years of experience.
+Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my humble site.
 
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
