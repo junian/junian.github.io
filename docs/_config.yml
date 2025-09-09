@@ -4,7 +4,7 @@ show_downloads: false
 google_analytics: G-MKQK789F6L
 theme: jekyll-theme-primer
 
-markdown: kramdown
+markdown: CommonMarkGhPages
 
 github:
   is_project_page: false
