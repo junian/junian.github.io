@@ -50,11 +50,11 @@ Hi 👋, I'm **Junian** the **Software Engineer** with **5+** years of experienc
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Uninstall Old .NET SDK and Runtime Versions on macOS](https://www.junian.net/dev/dotnet-sdk-runtime-macos-removal/) <sub>September 08, 2025</sub>
+- [How to Fix 'gpg: decryption failed: No pinentry' on macOS](https://www.junian.net/tech/macos-gpg-decryption-failed-no-pinentry/) <sub>September 07, 2025</sub>
+- [Speedtest CLI: Resolving HTTP Error 403 Forbidden](https://www.junian.net/tech/speedtest-http-error-403-forbidden/) <sub>September 06, 2025</sub>
 - [SVN Cheat Sheet](https://www.junian.net/dev/svn-cheat-sheet/) <sub>September 05, 2025</sub>
 - [Local Area Network (LAN) Bandwidth Speed Test](https://www.junian.net/tech/local-area-network-bandwidth-speed-test/) <sub>September 04, 2025</sub>
-- [FiberHome GPON ONU Router / Modem Default Admin Password](https://www.junian.net/tech/fiberhome-gpon-onu-router-admin-password/) <sub>September 02, 2025</sub>
-- [Microsoft SQL Server Express Downloads (2022, 2019, 2017)](https://www.junian.net/dev/microsoft-sql-server-express-download-links/) <sub>August 25, 2025</sub>
-- [Microsoft SQL Server Developer Downloads (2022, 2019, 2017)](https://www.junian.net/dev/microsoft-sql-server-developer-edition-download-links/) <sub>August 21, 2025</sub>
 <!-- blog feed end -->
 
 > [**[See more]**](https://www.junian.net/)
