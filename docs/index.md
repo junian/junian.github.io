@@ -61,11 +61,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Set the Default GitHub Branch to 'master'](https://www.junian.net/dev/github-master-branch/) <sub>September 09, 2025</sub>
 - [How to Uninstall Old .NET SDK and Runtime Versions on macOS](https://www.junian.net/dev/dotnet-sdk-runtime-macos-removal/) <sub>September 08, 2025</sub>
 - [How to Fix 'gpg: decryption failed: No pinentry' on macOS](https://www.junian.net/tech/macos-gpg-decryption-failed-no-pinentry/) <sub>September 07, 2025</sub>
 - [Speedtest CLI: Resolving HTTP Error 403 Forbidden](https://www.junian.net/tech/speedtest-http-error-403-forbidden/) <sub>September 06, 2025</sub>
 - [SVN Cheat Sheet](https://www.junian.net/dev/svn-cheat-sheet/) <sub>September 05, 2025</sub>
-- [Local Area Network (LAN) Bandwidth Speed Test](https://www.junian.net/tech/local-area-network-bandwidth-speed-test/) <sub>September 04, 2025</sub>
 <!-- blog feed end -->
 
 > [**[See more]**](https://www.junian.net/)
