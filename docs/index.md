@@ -28,6 +28,7 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 💻 Websites and Web Apps
 
 - [Blazor Apps](./blazor-apps/) - Browser-based mini tools, built with Blazor ([YouTube thumbnail extractor](./blazor-apps/get-youtube-thumbnail/), etc.).
+ - [Vanilla Web Apps](./vanilla-web-apps/) - Simple web apps written in Vanilla HTML, CSS, and JS.
 - [Markdown Resume](./markdown-resume/) - Write your Resume in Markdown. ATS-friendly and optimized for developers.
 - [Encrypted DNS Configs for Apple Devices](./apple-encrypted-dns/) - A collection of encrypted DNS configuration for Apple Devices such as macOS, iOS, and iPadOS. So you'll be able to use DNS-Over-HTTPS (DOH) without installing any app.
 - [pajak](./pajak/) - This is only for Indonesian fellows who want to submit tax reports each year, but always forget the net percentage of their revenue.
