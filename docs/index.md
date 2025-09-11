@@ -61,11 +61,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Fix a Corrupted Video with FFmpeg](https://www.junian.net/tech/ffmpeg-fix-corrupted-video/) <sub>September 11, 2025</sub>
+- [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-community-download-links/) <sub>September 10, 2025</sub>
 - [How to Set the Default GitHub Branch to 'master'](https://www.junian.net/dev/github-master-branch/) <sub>September 09, 2025</sub>
 - [How to Uninstall Old .NET SDK and Runtime Versions on macOS](https://www.junian.net/dev/dotnet-sdk-runtime-macos-removal/) <sub>September 08, 2025</sub>
 - [How to Fix 'gpg: decryption failed: No pinentry' on macOS](https://www.junian.net/tech/macos-gpg-decryption-failed-no-pinentry/) <sub>September 07, 2025</sub>
-- [Speedtest CLI: Resolving HTTP Error 403 Forbidden](https://www.junian.net/tech/speedtest-http-error-403-forbidden/) <sub>September 06, 2025</sub>
-- [SVN Cheat Sheet](https://www.junian.net/dev/svn-cheat-sheet/) <sub>September 05, 2025</sub>
 <!-- blog feed end -->
 
 > [**[See more]**](https://www.junian.net/)
