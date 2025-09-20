@@ -47,7 +47,7 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 - [SharpExifTool](./SharpExifTool/) - C# Wrapper for ExifTool by Phil Harvey. Available for Windows, macOS, and Linux.
 - [MvvmReady](./mvvmready/) - Make your cross-platform MVVM-ready with only a single binary/file.
 
-## 💻 Command-line (CLI)
+## 🖥️ Command-line (CLI)
 
 - [gonetweet](./gonetweet/) - Automatic tweet destruction written in Go programming language. Using hashtag for expiration.
 - [C/C++ Console Apps](./cpp-console-apps/) - C/C++ console apps example for education, inspiration, and fun.
