@@ -25,35 +25,33 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 
 -->
 
-## 💻 Websites and Web Apps
+## 🕸️ Web
 
 - [Blazor Apps](./blazor-apps/) - Browser-based mini tools, built with Blazor ([YouTube thumbnail extractor](./blazor-apps/get-youtube-thumbnail/), etc.).
  - [Vanilla Web Apps](./vanilla-web-apps/) - Simple web apps written in Vanilla HTML, CSS, and JS.
 - [Markdown Resume](./markdown-resume/) - Write your Resume in Markdown. ATS-friendly and optimized for developers.
-- [Encrypted DNS Configs for Apple Devices](./apple-encrypted-dns/) - A collection of encrypted DNS configuration for Apple Devices such as macOS, iOS, and iPadOS. So you'll be able to use DNS-Over-HTTPS (DOH) without installing any app.
+- [Fokus - Hugo Theme](./hugo-fokus/) - Simple, minimalist, lightweight, and fast theme for the Hugo website. Based on Bootstrap 3 for maximum backward compatibility. It'll still look beautiful on Internet Explorer.
+- [Link-in-Bio - Jekyll Theme](./jekyll-linkinbio/) - The simplest way to turn your GitHub Pages into a Link-in-bio style (Linktree clone).
 - [pajak](./pajak/) - This is only for Indonesian fellows who want to submit tax reports each year, but always forget the net percentage of their revenue.
   
-## 🖥️ Desktop apps
+## 💻 Desktop
+
 - [Termission](./termission/) - Cross-platform Serial (COM Port Data Emulator)/TCP Terminal with Scriptable Auto-Response.
 - [Serial Device Emulator](./serial-device-emulator/) - Windows Serial (COM Port Data Emulator) Terminal with C# Auto-Response.
 - [AutoKams](./AutoKams/) - Automatic Image Capture Through Computer-Attached Cameras.<br />
   Developed exclusively for microscopes in Low-Cost Motility Tracking System (LOCOMOTIS) for Time-Lapse Microscopy Applications and Cell Visualisation [research](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103547), but it actually can be used to any cameras.
 
-## .NET Libraries
+## 📚 .NET Libraries
 
 - [Standard.Licensing](./Standard.Licensing/) - Easy-to-use licensing library for .NET Framework, Mono, .NET Core, and Xamarin products.
 - [SharpExifTool](./SharpExifTool/) - C# Wrapper for ExifTool by Phil Harvey. Available for Windows, macOS, and Linux.
 - [MvvmReady](./mvvmready/) - Make your cross-platform MVVM-ready with only a single binary/file.
 
-## Command-line Tools
+## 💻 Command-line (CLI)
 
 - [gonetweet](./gonetweet/) - Automatic tweet destruction written in Go programming language. Using hashtag for expiration.
+- [C/C++ Console Apps](./cpp-console-apps/) - C/C++ console apps example for education, inspiration, and fun.
 - [dotfiles](./dotfiles/) - My dotfiles for any *nix system.
-
-## Themes
-
-- [Hugo Fokus Theme](./hugo-fokus/) - Simple, minimalist, lightweight them for the Hugo website. Based on Bootstrap 3 for maximum backward compatibility.
-- [Jekyll Link in Bio Theme](./jekyll-linkinbio/) - Simple Linktree Clone for Jekyll (GitHub Pages) based on littlelink.
 
 ## 🎮 Games
 
