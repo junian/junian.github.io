@@ -51,6 +51,7 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 
 - [gonetweet](./gonetweet/) - Automatic tweet destruction written in Go programming language. Using hashtag for expiration.
 - [C/C++ Console Apps](./cpp-console-apps/) - C/C++ console apps example for education, inspiration, and fun.
+- [Homebrew dotnet Tap](https://github.com/junian/homebrew-dotnet) - Install .NET SDK side-by-side on macOS with Homebrew package manager.
 - [dotfiles](./dotfiles/) - My dotfiles for any *nix system.
 
 ## 🎮 Games
