@@ -61,11 +61,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Run a .NET App from a Single C# File](https://www.junian.net/dev/dotnet-run-csharp-app/) <sub>September 27, 2025</sub>
+- [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/) <sub>September 26, 2025</sub>
+- [How to Fix Git Refusing to Merge Unrelated Histories Issue](https://www.junian.net/dev/git-refusing-to-merge-unrelated-histories/) <sub>September 25, 2025</sub>
 - [A Simple Mathematical Expression Tokenizer in C++](https://www.junian.net/dev/cpp-math-expression-tokenizer/) <sub>September 16, 2025</sub>
 - [Fixing exFAT Drives on macOS](https://www.junian.net/tech/macos-fix-exfat/) <sub>September 13, 2025</sub>
-- [Batman Math Equation](https://www.junian.net/tech/batman-math-equation/) <sub>September 12, 2025</sub>
-- [How to Fix a Corrupted Video with FFmpeg](https://www.junian.net/tech/ffmpeg-fix-corrupted-video/) <sub>September 11, 2025</sub>
-- [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-community-download-links/) <sub>September 10, 2025</sub>
 <!-- blog feed end -->
 
 > [**[See more]**](https://www.junian.net/)
