@@ -1,4 +1,4 @@
-name: 'Blog Feed to README'
+name: 'rss-to-readme'
 on:
   workflow_dispatch:
   push:
