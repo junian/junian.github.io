@@ -1,4 +1,4 @@
-name: 'rss-to-readme'
+name: 'rss-to-index'
 on:
   workflow_dispatch:
   push:
