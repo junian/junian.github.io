@@ -43,7 +43,6 @@ jobs:
           end_flag: '<!-- youtube feed end -->'
           ensure_all: true
       - name: push to raw
-        if: steps.blog-feed.outputs.changed == 'true' || steps.youtube-feed.outputs.changed == 'true'
         id: commit
         run: |
           git config --global user.name "github-actions[bot]"
