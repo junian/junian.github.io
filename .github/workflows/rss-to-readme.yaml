@@ -2,6 +2,9 @@ name: 'rss-to-readme'
 on:
   workflow_dispatch:
   push:
+    branches: [ "raw" ]
+  pull_request:
+    branches: [ "raw" ]
   schedule:
     - cron: '0 * * * *'
 
@@ -12,7 +15,9 @@ jobs:
       changed: ${{ steps.feed.outputs.changed }}
       items: ${{ steps.feed.outputs.items }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+        with:
+          ref: raw
       - uses: sarisia/actions-readme-feed@v1
         id: blog-feed
         with:
@@ -37,9 +42,16 @@ jobs:
           start_flag: '<!-- youtube feed start -->'
           end_flag: '<!-- youtube feed end -->'
           ensure_all: true
-      - name: push to master
-        if: steps.blog-feed.outputs.changed == true || steps.youtube-feed.outputs.changed == true
+      - name: push repo
+        if: steps.blog-feed.outputs.changed == 'true' || steps.youtube-feed.outputs.changed == 'true'
         id: commit
-        uses: sarisia/actions-commit@master
-        with:
-          message: "docs: update feed"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "docs: update feed"
+            git push
+          else
+            echo "No changes to commit."
+          fi
