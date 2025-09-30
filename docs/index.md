@@ -61,11 +61,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Upgrading Flutter Android App to Target SDK 35: Issues & Solutions](https://www.junian.net/dev/flutter-android-sdk-35-upgrade/) <sub>September 30, 2025</sub>
+- [Upgrading Flutter Android App to Target SDK 35 Troubleshooting](https://www.junian.net/dev/flutter-android-sdk-35-upgrade/) <sub>September 30, 2025</sub>
 - [GitHub Actions Bot Username and Email Address](https://www.junian.net/dev/github-actions-bot-username-email-address/) <sub>September 29, 2025</sub>
+- [How to Allow Underscore Headers in Nginx](https://www.junian.net/dev/nginx-allow-underscore-header/) <sub>September 28, 2025</sub>
 - [Run a .NET App from a Single C# File](https://www.junian.net/dev/dotnet-run-csharp-app/) <sub>September 27, 2025</sub>
 - [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/) <sub>September 26, 2025</sub>
-- [How to Fix Git Refusing to Merge Unrelated Histories Issue](https://www.junian.net/dev/git-refusing-to-merge-unrelated-histories/) <sub>September 25, 2025</sub>
 <!-- blog feed end -->
 
 > [**[See more]**](https://www.junian.net/)
