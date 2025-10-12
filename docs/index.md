@@ -73,11 +73,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [FFmpeg Concatenate Multiple Videos into a Single Video File](https://www.youtube.com/watch?v=O0svfWlyQlM) <sub>October 12, 2025</sub>
 - [How to Display File Extension on Windows Explorer](https://www.youtube.com/watch?v=JRjp7hlG4N8) <sub>October 11, 2025</sub>
 - [Show All Filename Extensions on macOS Finder app](https://www.youtube.com/watch?v=co_OehKkEbA) <sub>October 10, 2025</sub>
 - [Activate Windows Developer Mode](https://www.youtube.com/watch?v=Nwv73e8aEdk) <sub>October 09, 2025</sub>
 - [How to Set MacBook 16:9 Screen Resolution with BetterDisplay](https://www.youtube.com/watch?v=JuTi97QrMu0) <sub>October 08, 2025</sub>
-- [Draw Batman with Math! The Batman Symbol Math Equation](https://www.youtube.com/watch?v=FlpR0H-aqW4) <sub>October 07, 2025</sub>
 <!-- youtube feed end -->
 
 > [**[See more]**](https://www.junian.net/yt/)
