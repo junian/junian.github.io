@@ -76,8 +76,8 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 - [Local Area Network Bandwidth Speed Test with iperf3 Tutorial](https://www.youtube.com/watch?v=V0EhVCCxTuc) <sub>October 15, 2025</sub>
 - [Listen to Calming Background Sounds on macOS](https://www.youtube.com/watch?v=u-cheQ0JKKU) <sub>October 14, 2025</sub>
 - [Fixing Video Aspect Ratio with FFmpeg without Re-Encoding](https://www.youtube.com/watch?v=bgRWm_CvQ2k) <sub>October 13, 2025</sub>
-- [FFmpeg Concatenate Multiple Videos into a Single Video File](https://www.youtube.com/watch?v=O0svfWlyQlM) <sub>October 12, 2025</sub>
-- [How to Display File Extension on Windows Explorer](https://www.youtube.com/watch?v=JRjp7hlG4N8) <sub>October 11, 2025</sub>
+- [Show All Filename Extensions on macOS Finder app](https://www.youtube.com/watch?v=co_OehKkEbA) <sub>October 10, 2025</sub>
+- [Activate Windows Developer Mode](https://www.youtube.com/watch?v=Nwv73e8aEdk) <sub>October 09, 2025</sub>
 <!-- youtube feed end -->
 
 > [**[See more]**](https://www.junian.net/yt/)
