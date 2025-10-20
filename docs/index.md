@@ -61,11 +61,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Disable macOS Auto Update](https://www.junian.net/tech/macos-disable-auto-update/) <sub>October 20, 2025</sub>
 - [How to Concatenate Multiple Videos Into a Single Video File with FFmpeg](https://www.junian.net/tech/ffmpeg-concat-videos/) <sub>October 18, 2025</sub>
 - [My Experience Fixing Flutter Android Google Play 16 KB Page Size Violation](https://www.junian.net/dev/flutter-android-16kb-page-size/) <sub>October 05, 2025</sub>
 - [Troubleshooting Flutter Android App to Target SDK 35 Upgrade](https://www.junian.net/dev/flutter-android-sdk-35-upgrade/) <sub>September 30, 2025</sub>
 - [GitHub Actions Bot Username and Email Address](https://www.junian.net/dev/github-actions-bot-username-email-address/) <sub>September 29, 2025</sub>
-- [How to Allow Underscore Headers in Nginx](https://www.junian.net/dev/nginx-allow-underscore-header/) <sub>September 28, 2025</sub>
 <!-- blog feed end -->
 
 > [**[See more]**](https://www.junian.net/)
@@ -73,11 +73,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Windows VPN Split Tunneling](https://www.youtube.com/watch?v=9shE_ahElug) <sub>October 20, 2025</sub>
 - [How to Convert macOS App Icon (icns) to a PNG Image File](https://www.youtube.com/watch?v=GSJ2RVHTm_M) <sub>October 17, 2025</sub>
 - [How to NOT Auto Update macOS](https://www.youtube.com/watch?v=33L--ZBRvfk) <sub>October 16, 2025</sub>
 - [Local Area Network Bandwidth Speed Test with iperf3 Tutorial](https://www.youtube.com/watch?v=V0EhVCCxTuc) <sub>October 15, 2025</sub>
 - [Listen to Calming Background Sounds on macOS](https://www.youtube.com/watch?v=u-cheQ0JKKU) <sub>October 14, 2025</sub>
-- [Fixing Video Aspect Ratio with FFmpeg without Re-Encoding](https://www.youtube.com/watch?v=bgRWm_CvQ2k) <sub>October 13, 2025</sub>
 <!-- youtube feed end -->
 
 > [**[See more]**](https://www.junian.net/yt/)
