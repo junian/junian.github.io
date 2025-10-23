@@ -61,11 +61,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Show File Extensions in Finder on macOS](https://www.junian.net/tech/macos-finder-show-file-extension/) <sub>October 23, 2025</sub>
 - [Change Video Aspect Ratio with FFmpeg](https://www.junian.net/tech/ffmpeg-change-aspect-ratio/) <sub>October 22, 2025</sub>
 - [How to Listen to macOS Background Sounds](https://www.junian.net/tech/macos-background-sounds/) <sub>October 21, 2025</sub>
 - [Disable macOS Auto Update](https://www.junian.net/tech/macos-disable-auto-update/) <sub>October 20, 2025</sub>
 - [How to Concatenate Multiple Videos Into a Single Video File with FFmpeg](https://www.junian.net/tech/ffmpeg-concat-videos/) <sub>October 18, 2025</sub>
-- [My Experience Fixing Flutter Android Google Play 16 KB Page Size Violation](https://www.junian.net/dev/flutter-android-16kb-page-size/) <sub>October 05, 2025</sub>
 <!-- blog feed end -->
 
 > [**[See more]**](https://www.junian.net/)
