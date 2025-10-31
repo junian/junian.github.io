@@ -61,11 +61,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Always Show Filename Extensions in Windows Explorer](https://www.junian.net/tech/windows-explorer-show-file-extension/) <sub>October 31, 2025</sub>
 - [Enable Three Finger Window Drag on macOS](https://www.junian.net/tech/macos-three-finger-drag-window/) <sub>October 30, 2025</sub>
 - [Activate Windows Developer Mode](https://www.junian.net/tech/windows-developer-mode/) <sub>October 29, 2025</sub>
 - [Scoop Package Manager for Windows](https://www.junian.net/tech/windows-scoop-package-manager/) <sub>October 28, 2025</sub>
 - [Show File Extensions in Finder on macOS](https://www.junian.net/tech/macos-finder-show-file-extension/) <sub>October 23, 2025</sub>
-- [Change Video Aspect Ratio with FFmpeg](https://www.junian.net/tech/ffmpeg-change-aspect-ratio/) <sub>October 22, 2025</sub>
 <!-- blog feed end -->
 
 > [**[See more]**](https://www.junian.net/)
