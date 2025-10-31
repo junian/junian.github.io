@@ -73,11 +73,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Solving Xamarin iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.youtube.com/watch?v=rnwKEtFM0vM) <sub>October 31, 2025</sub>
 - [How to Enable Three Finger Drag on macOS](https://www.youtube.com/watch?v=iPPxkdKFhJ4) <sub>October 30, 2025</sub>
 - [Incorrect Filename from Wget Download and How to Fix It](https://www.youtube.com/watch?v=aOTe3czWcsc) <sub>October 29, 2025</sub>
 - [Scoop Package Manager Quickstart on Windows](https://www.youtube.com/watch?v=JugEIxYr3jk) <sub>October 22, 2025</sub>
 - [Battery Charge Limit on macOS](https://www.youtube.com/watch?v=qn6DdrRBg0s) <sub>October 21, 2025</sub>
-- [Windows VPN Split Tunneling](https://www.youtube.com/watch?v=9shE_ahElug) <sub>October 20, 2025</sub>
 <!-- youtube feed end -->
 
 > [**[See more]**](https://www.junian.net/yt/)
