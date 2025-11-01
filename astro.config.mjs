@@ -2,12 +2,9 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-const site = 'https://www.junian.dev/';
-const githubAvatar = 'https://github.com/junian.png';
-
 // https://astro.build/config
 export default defineConfig({
-	site,
+	site: 'https://www.junian.dev/',
 	trailingSlash: 'always',
 	integrations: [
 		starlight({
