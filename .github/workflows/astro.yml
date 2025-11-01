@@ -5,11 +5,13 @@
 name: deploy-astro-to-github-pages
 
 on:
+  workflow_run:
+    workflows: ["rss-to-md"]
+    types: [completed]
   # Runs on pushes targeting the raw branch
   push:
     branches:
       - raw
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
