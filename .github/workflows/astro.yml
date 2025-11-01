@@ -2,7 +2,7 @@
 #
 # To get started with Astro see: https://docs.astro.build/en/getting-started/
 #
-name: Deploy Astro site to Pages
+name: deploy-astro-to-github-pages
 
 on:
   # Runs on pushes targeting the raw branch
