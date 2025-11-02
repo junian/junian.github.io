@@ -12,7 +12,13 @@ commonmark:
 
 github:
   is_project_page: false
-  
+
+# <!-- just-the-docs start />
+
+nav_enabled: false
+
+# <!-- just-the-docs end />
+
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
