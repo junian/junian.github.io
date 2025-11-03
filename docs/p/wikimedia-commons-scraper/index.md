@@ -2,6 +2,7 @@
 title: Wikipedia and Wikimedia Commons Scraper
 layout: portfolio
 nav_exclude: true
+search_exclude: true
 ---
 
 ##  Wikipedia and Wikimedia Commons Scraper

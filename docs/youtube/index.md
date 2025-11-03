@@ -5,6 +5,7 @@ description: Tech and dev tutorial without the headache
 
 redirect_to: "https://www.youtube.com/@JunianDev"
 nav_exclude: true
+search_exclude: true
 ---
 
 # Watch my Videos
