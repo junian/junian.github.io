@@ -1,5 +1,9 @@
 ---
-nav_exclude: true
+title: Ideas
+description: I'm dumping all of my ideas here
+
+parent: About
+nav_exclude: false
 ---
 
 # Ideas

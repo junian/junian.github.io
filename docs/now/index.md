@@ -1,5 +1,9 @@
 ---
-nav_exclude: true
+title: Now
+description: What I'm up to now.
+
+parent: About
+nav_exclude: false
 ---
 
 # What I'm Up To Now
