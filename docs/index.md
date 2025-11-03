@@ -8,12 +8,13 @@ permalink: /
 ---
 
 <a href="/" alt="Junian.dev Home Page"><img src="https://github.com/junian.png" width="128px" class="color-bg-default border circle"></a>
+{: .text-center .mx-auto }
 
 # Junian.dev
-{: .mx-auto .fs-9 }
+{: .text-center .mx-auto .fs-9 }
 
 Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my humble site.
-{: .mx-auto .fs-6 .fw-300 }
+{: .text-center .mx-auto .fs-6 .fw-300 }
 
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
