@@ -6,7 +6,20 @@ parent: Content
 nav_exclude: false
 ---
 
-## YouTube Videos
+# YouTube Videos
+{: .fs-9 }
+
+Tech and Dev video tutorials without the headache
+{: .fs-6 .fw-300 }
+
+## Background
+
+I'm a bit late to take YouTube seriously.
+With the rise of Generative AI, I want to be the part of the last human group who still create.
+
+## Videos
+
+Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
 - `Nov 03, 2025` [Terminal Command to Open Anything in Windows: Start!](https://www.youtube.com/watch?v=gawTA63JgCg)
@@ -25,3 +38,4 @@ nav_exclude: false
 - `Oct 11, 2025` [How to Display File Extension on Windows Explorer](https://www.youtube.com/watch?v=JRjp7hlG4N8)
 - `Oct 10, 2025` [Show All Filename Extensions on macOS Finder app](https://www.youtube.com/watch?v=co_OehKkEbA)
 <!-- youtube feed end -->
+

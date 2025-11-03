@@ -6,7 +6,26 @@ parent: Content
 nav_exclude: false
 ---
 
-## Tech Blog
+# Tech Blog
+{: .fs-9 }
+
+Collection of tech writing I've ever wrote.
+{: .fs-6 .fw-300 }
+
+## Background
+
+Before I get into software engineering, I like writing blog. I still do.
+My first blog was on Google's Blogger (Blogspot).
+I used it because it's free.
+
+I write so many topics, but mostly is about tech.
+
+I even won 4th place of a Blogging competition back in 2011.
+One of the prizes was a voucher to buy a domain, so I purchased [junian.net](https://www.junian.net/) and still use it until today.
+
+## Posts
+
+Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
 - `Nov 01, 2025` [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/)
