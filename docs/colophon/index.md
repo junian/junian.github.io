@@ -1,13 +1,13 @@
- ---
- title: Colophon
- description: Not sure what colophon is
- 
- parent: About
- nav_exclude: false
- ---
+---
+title: Colophon
+description: Not sure what colophon is
 
- # Colophon
+parent: About
+nav_exclude: false
+---
 
- - Hosted on GitHub Pages.
- - Using Jekyll.
- - Using Cayman theme.
+# Colophon
+
+- Hosted on GitHub Pages.
+- Using Jekyll.
+- Using Cayman theme.
