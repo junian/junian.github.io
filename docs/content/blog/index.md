@@ -151,3 +151,5 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Dec 07, 2016` [How To Make A 2D Animation using Timer with C++ .NET](https://www.junian.net/dev/cpp-dotnet-2d-animation/)
 - `Dec 02, 2016` [How To Draw 2D Primitive Objects with C++ .NET](https://www.junian.net/dev/cpp-dotnet-draw-2d-primitive/)
 <!-- feed end -->
+
+[**See more**](/blog/){: .btn .btn-blue }

@@ -39,3 +39,4 @@ Following are the latest 15 videos I've created.
 - `Oct 10, 2025` [Show All Filename Extensions on macOS Finder app](https://www.youtube.com/watch?v=co_OehKkEbA)
 <!-- youtube feed end -->
 
+[**See more**](/youtube/){: .btn .btn-blue }
