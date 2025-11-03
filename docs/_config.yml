@@ -15,6 +15,14 @@ github:
 
 # <!-- just-the-docs start />
 
+# Aux links for the upper right navigation
+aux_links:
+  - "YouTube":
+    - "https://youtube.com/@JunianDev"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 nav_enabled: true
 
 # <!-- just-the-docs end />
