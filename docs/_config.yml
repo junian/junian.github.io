@@ -3,7 +3,7 @@ description: Software Engineer
 show_downloads: false
 google_analytics: G-MKQK789F6L
 # theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+remote_theme: junian/just-the-docs
 
 markdown: CommonMarkGhPages
 commonmark:
