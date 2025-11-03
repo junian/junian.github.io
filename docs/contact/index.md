@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Contact
 
 There are many different ways you can get in touch with me.

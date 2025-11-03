@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # About
 
 I'm a software engineer.

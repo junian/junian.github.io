@@ -1,6 +1,7 @@
 ---
 layout: portfolio-index
 title: Portfolio and Sample Works
+nav_exclude: true
 ---
 
 ## Portfolio and Work Samples

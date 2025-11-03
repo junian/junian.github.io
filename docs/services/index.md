@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hire Junian for Software Development Job"
+nav_exclude: true
 redirect_from:
   - /hire/
 ---

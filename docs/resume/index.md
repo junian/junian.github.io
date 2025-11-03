@@ -1,6 +1,7 @@
 ---
 sitemap: false
 search: exclude
+nav_exclude: true
 redirect_from:
   - /cv/
 ---

@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # What I'm Up To Now
 
 ```
