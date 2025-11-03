@@ -73,7 +73,7 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 - [Scoop Package Manager for Windows](https://www.junian.net/tech/windows-scoop-package-manager/) <sub>October 28, 2025</sub>
 <!-- blog feed end -->
 
-> [**[See more]**](https://www.junian.net/)
+> [**[See more]**](/content/blog/)
 
 ## 🎬 Recent YouTube Videos
 
@@ -85,7 +85,7 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 - [Battery Charge Limit on macOS](https://www.youtube.com/watch?v=qn6DdrRBg0s) <sub>October 21, 2025</sub>
 <!-- youtube feed end -->
 
-> [**[See more]**](https://www.junian.net/yt/)
+> [**[See more]**](/content/youtube/)
 
 ---
 
