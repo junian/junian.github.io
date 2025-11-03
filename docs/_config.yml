@@ -85,8 +85,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "https://github.com/just-the-docs/just-the-docs"
+  "GitHub":
+    - "https://github.com/junian"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -101,8 +101,10 @@ nav_sort: case_insensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: GitHub
-    url: https://github.com/junian
+  - title: Tech Blog
+    url: https://www.junian.net/
+  - title: YouTube
+    url: https://www.youtube.com/@JunianDev
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
