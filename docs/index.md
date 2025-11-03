@@ -85,7 +85,7 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 - [Scoop Package Manager Quickstart on Windows](https://www.youtube.com/watch?v=JugEIxYr3jk) <sub>October 22, 2025</sub>
 <!-- youtube feed end -->
 
-> [**[See more]**](/content/youtube/)
+[**See more**](/content/youtube/){: .btn .btn-blue }
 
 ---
 
