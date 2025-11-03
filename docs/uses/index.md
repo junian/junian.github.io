@@ -8,7 +8,7 @@ nav_exclude: false
 
 # What I Use
 
-```
+```console
   ___ ___ _______ _______ _______ 
  |   Y   |   _   |   _   |   _   |
  |.  |   |   1___|.  1___|   1___|
@@ -29,7 +29,7 @@ nav_exclude: false
 
 ## Softwares on macOS
 
-```
+```console
                     'c.          junian@MacBook-Air-M1-JT.local 
                  ,xNMM.          ------------------------------ 
                .OMMMMo           OS: macOS 14.4.1 23E224 arm64 
@@ -55,7 +55,7 @@ nav_exclude: false
 
 ## Softwares on Windows
 
-```
+```console
 llllllllllllllll   llllllllllllllll            junian@DESKMINI-X300
 llllllllllllllll   llllllllllllllll            --------------
 llllllllllllllll   llllllllllllllll            OS: Windows 11
