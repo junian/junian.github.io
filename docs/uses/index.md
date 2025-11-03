@@ -1,6 +1,7 @@
 ---
 title: What I use
 description: This is my uses page, where I tell you what devices I use
+nav_exclude: true
 ---
 
 # What I Use

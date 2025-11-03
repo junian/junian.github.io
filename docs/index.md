@@ -1,5 +1,5 @@
 ---
-title: Junian.dev
+title: Home
 description: "Junian Triajianto is an experienced software engineer doing freelance works."
 
 layout: home
