@@ -1,5 +1,9 @@
 ---
 title: Junian.dev
+layout: home
+nav_order: 1
+description: "Junian Triajianto is an experienced software engineer doing freelance works."
+permalink: /
 ---
 
 <div align="center">
