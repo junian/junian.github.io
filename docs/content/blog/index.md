@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Nov 04, 2025` [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.net/dev/microsoft-sql-server-apple-sillicon-mac/)
 - `Nov 02, 2025` [How to Change the Default Screenshot Folder on macOS](https://www.junian.net/tech/macos-change-screenshot-folder/)
 - `Nov 01, 2025` [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/)
 - `Oct 31, 2025` [Always Show Filename Extensions in Windows Explorer](https://www.junian.net/tech/windows-explorer-show-file-extension/)
