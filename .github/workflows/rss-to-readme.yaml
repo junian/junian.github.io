@@ -7,7 +7,7 @@ on:
       - raw
   pull_request:
     branches:
-      - main
+      - raw
   schedule:
     - cron: "15 12 * * *"
 
