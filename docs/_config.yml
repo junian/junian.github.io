@@ -23,7 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-commonmark-ghpages
-  - just-the-docs
 
 whitelist:
   - jekyll-redirect-from
@@ -31,7 +30,6 @@ whitelist:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-commonmark-ghpages
-  - just-the-docs
 
 # <!-- just-the-docs start />
 
