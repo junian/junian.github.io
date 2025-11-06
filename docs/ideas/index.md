@@ -7,17 +7,10 @@ nav_exclude: false
 ---
 
 # Ideas
+{: .fs-9 }
 
-```
- (    (                   (     
- )\ ) )\ )         (      )\ )  
-(()/((()/(   (     )\    (()/(  
- /(_))/(_))  )\ ((((_)(   /(_)) 
-(_)) (_))_  ((_) )\ _ )\ (_))   
-|_ _| |   \ | __|(_)_\(_)/ __|  
- | |  | |) || _|  / _ \  \__ \  
-|___| |___/ |___|/_/ \_\ |___/
-```
+Brain dumping the ideas from brain.
+{: .fs-6 .fw-300 }
 
 - Website to Merge PDF without server.
 - Web-based serial com app like Termission. It's using pure Javascript or Blazor.
