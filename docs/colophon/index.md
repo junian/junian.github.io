@@ -20,7 +20,7 @@ Tools I use to write and develop this website:
 Technologies used to build this website:
 
 - [Jekyll](https://jekyllrb.com/)
-- [Just the docs theme](https://just-the-docs.com/).
+- [jekyll-jtdocs theme](https://www.junian.dev/jekyll-jtdocs/), a fork of [Just the docs](https://just-the-docs.com/).
 - Hosted on [GitHub Pages](https://pages.github.com/).
 - Domain is managed on [Cloudflare](https://www.cloudflare.com/).
 
