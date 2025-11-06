@@ -23,53 +23,12 @@ Tools, services, and hardwares that I use or like to use.
 
 ## Softwares on macOS
 
-```console
-                    'c.          junian@MacBook-Air-M1-JT.local 
-                 ,xNMM.          ------------------------------ 
-               .OMMMMo           OS: macOS 14.4.1 23E224 arm64 
-               OMMM0,            Host: MacBookAir10,1 
-     .;loddo:' loolloddol;.      Kernel: 23.4.0 
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 19 days, 1 hour, 27 mins 
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 224 (brew) 
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9 
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1440x900 
-:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Rectangle 
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Terminal: Apple_Terminal 
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal Font: SFMono-Regular 
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   CPU: Apple M1 
-    kMMMMMMMMMMMMMMMMMMMMMMd     GPU: Apple M1 
-     ;KMMMMMMMWXXWMMMMMMMk.      Memory: 2528MiB / 16384MiB 
-       .cooc,.    .,coo:.
-```
-
 - Homebrew
 - Visual Studio for Mac
 - VSCode
 
 ## Softwares on Windows
 
-```console
-llllllllllllllll   llllllllllllllll            junian@DESKMINI-X300
-llllllllllllllll   llllllllllllllll            --------------
-llllllllllllllll   llllllllllllllll            OS: Windows 11
-llllllllllllllll   llllllllllllllll            Build: 23H2 (22631)
-llllllllllllllll   llllllllllllllll            Uptime: 1 day, 3 hours, 2 minutes
-llllllllllllllll   llllllllllllllll            Resolution: 1440x900 @32Hz
-llllllllllllllll   llllllllllllllll            Terminal: Windows PowerShell
-llllllllllllllll   llllllllllllllll            CPU: AMD Ryzen 3 PRO 4350G with Radeon Graphics
-llllllllllllllll   llllllllllllllll            GPU: AMD Radeon(TM) Graphics
-                                               Memory: 12045 MB / 14216 MB (84% in use)
-llllllllllllllll   llllllllllllllll            Disk: C:\ 487.67 GB (220.04 GB free)
-llllllllllllllll   llllllllllllllll
-llllllllllllllll   llllllllllllllll            Mem%:  -=[ //////////////////// ]=-
-llllllllllllllll   llllllllllllllll
-llllllllllllllll   llllllllllllllll            Disk%: -=[ //////////////////// ]=-
-llllllllllllllll   llllllllllllllll
-llllllllllllllll   llllllllllllllll                                            
-llllllllllllllll   llllllllllllllll                                            
-llllllllllllllll   llllllllllllllll
-```
 - Visual Studio 2022
 - Microsoft SQL Server
 
