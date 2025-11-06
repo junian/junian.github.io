@@ -6,25 +6,18 @@ parent: About
 nav_exclude: false
 ---
 
-# What I'm Up To Now
+# Now
+{: .fs-9 }
 
-```
-     .-') _                (`\ .-') /`
-    ( OO ) )                `.( OO ),'
-,--./ ,--,'  .-'),-----. ,--./  .--.  
-|   \ |  |\ ( OO'  .-.  '|      |  |  
-|    \|  | )/   |  | |  ||  |   |  |, 
-|  .     |/ \_) |  |\|  ||  |.'.|  |_)
-|  |\    |    \ |  | |  ||         |  
-|  | \   |     `'  '-'  '|   ,'.   |  
-`--'  `--'       `-----' '--'   '--'
-```
+What I'm up to now.
+{: .fs-6 .fw-300 }
 
-This is what I'm doing as of June 2024:
+This is what I'm doing as of November 2025:
 
-- Freelancing on Upwork.
-- Trying to create more YouTube contents.
-- Hunting for long-term jobs.
+- Going brack freelancing on Upwork.
+- Trying to publish 3 YouTube videos per week.
+- Trying to post 5 blog articles per week.
+- Looking for long-term jobs (please let me know if you have an open opportunity).
 
 ---
 
