@@ -87,8 +87,10 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "GitHub":
+  "[GitHub]":
     - "https://github.com/junian"
+  "[Hire me on Upwork]":
+    - https://www.junian.dev/upwork/
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
