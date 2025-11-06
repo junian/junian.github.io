@@ -87,9 +87,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "[GitHub]":
-    - "https://github.com/junian"
-  "[Hire me on Upwork]":
+  "Hire me on Upwork":
     - https://www.junian.dev/upwork/
 
 # Makes Aux links open in a new tab. Default is false
@@ -109,6 +107,8 @@ nav_external_links:
     url: https://www.junian.net/
   - title: YouTube
     url: https://www.youtube.com/@JunianDev
+  - title: GitHub
+    url: https://github.com/junian
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.
