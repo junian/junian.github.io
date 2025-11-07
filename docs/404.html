@@ -6,18 +6,19 @@ nav_exclude: true
 search_exclude: true
 ---
 
-<h1>Page not found</h1>
+<h1 id="main-404-title">Page not found</h1>
 
-<p>The page you requested could not be found. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for or go to this <a href="{{ '/' | relative_url }}">site's home page</a>.</p>
+<p id="main-404-description">The page you requested could not be found. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for or go to this <a href="{{ '/' | relative_url }}">site's home page</a>.</p>
 
 <script>
-  var path = window.location.pathname;
+  let path = window.location.pathname;
 
-  // Only handle /github/<repo>
-  var match = path.match(/^\/github\/([^\/]+)\/?$/);
+  let match = path.match(/^\/github\/([^\/]+)\/?$/);
 
   if (match) {
-    var repo = match[1];
-    window.location.replace("https://github.com/junian/" + repo);
+    let repo = match[1];
+    let toUrl = 'https://github.com/junian/' + repo;
+    document.querySelector('#main-404-title').textContent = "Redirecting to " + toUrl;
+    window.location.replace(toUrl);
   }
 </script>
