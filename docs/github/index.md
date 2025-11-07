@@ -1,5 +1,7 @@
 ---
 layout: none
+nav_exclude: true
+search_exclude: true
 ---
 
 {% assign repo = page.url | remove: "/github/" | remove: "/" %}
