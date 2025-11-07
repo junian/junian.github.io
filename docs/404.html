@@ -18,8 +18,8 @@ search_exclude: true
   if (match) {
     let repo = match[1];
     let toUrl = 'https://github.com/junian/' + repo;
-    document.querySelector('#main-404-title').textContent = $`Redirecting ...`;
-    document.querySelector('#main-404-description').innerHTML = $`Redirecting to <a href='${toUrl}'>${toUrl}</a> ...`;
+    document.querySelector('#main-404-title').textContent = 'Redirecting ...';
+    document.querySelector('#main-404-description').innerHTML = `Redirecting to <a href='${toUrl}'>${toUrl}</a> ...`;
     window.location.replace(toUrl);
   }
 </script>
