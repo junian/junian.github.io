@@ -70,7 +70,7 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.net/dev/microsoft-sql-server-apple-sillicon-mac/) <sub>November 04, 2025</sub>
+- [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.net/dev/microsoft-sql-server-apple-silicon-mac/) <sub>November 04, 2025</sub>
 - [How to Change the Default Screenshot Folder on macOS](https://www.junian.net/tech/macos-change-screenshot-folder/) <sub>November 02, 2025</sub>
 - [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/) <sub>November 01, 2025</sub>
 - [Always Show Filename Extensions in Windows Explorer](https://www.junian.net/tech/windows-explorer-show-file-extension/) <sub>October 31, 2025</sub>
