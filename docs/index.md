@@ -32,11 +32,15 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 
 ## 🕸️ Web
 
+<!--
 - [Blazor Apps](./blazor-apps/) - Browser-based mini tools, built with Blazor ([YouTube thumbnail extractor](./blazor-apps/get-youtube-thumbnail/), etc.).
- - [Vanilla Web Apps](./vanilla-web-apps/) - Simple web apps written in Vanilla HTML, CSS, and JS.
+-->
+
+- [Vanilla Web Apps](./web-apps/) - Simple web apps written in Vanilla HTML, CSS, and JS. For experiment and fun.
 - [Markdown Resume](./markdown-resume/) - Write your Resume in Markdown. ATS-friendly and optimized for developers.
 - [Fokus - Hugo Theme](./hugo-fokus/) - Simple, minimalist, lightweight, and fast theme for the Hugo website. Based on Bootstrap 3 for maximum backward compatibility. It'll still look beautiful on Internet Explorer.
-- [Link-in-Bio - Jekyll Theme](./jekyll-linkinbio/) - The simplest way to turn your GitHub Pages into a Link-in-bio style (Linktree clone).
+- [Link in Bio - Jekyll Theme](./jekyll-linkinbio/) - The simplest way to turn your GitHub Pages into a Link-in-bio style (Linktree clone).
+-[jtdocs - Jekyll Theme](./jekyll-jtdocs/) - Fork of just-the-docs with my own additions.
 - [pajak](./pajak/) - This is only for Indonesian fellows who want to submit tax reports each year, but always forget the net percentage of their revenue.
   
 ## 💻 Desktop
