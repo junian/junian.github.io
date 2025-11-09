@@ -9,4 +9,4 @@ search_exclude: true
 
 # Hire Junian on Upwork
 
-You can hire me on [Upwork](https://www.upwork.com/freelancers/~01e5c1fb94555ee2d7?mp_source=share)
+You can hire me on [Upwork](https://www.upwork.com/freelancers/~01e5c1fb94555ee2d7?utm_source=junian.dev&utm_medium=web&utm_content=textlink&mp_source=share)
