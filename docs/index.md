@@ -7,7 +7,7 @@ nav_order: 1
 permalink: /
 ---
 
-<a href="/" alt="Junian.dev Home Page"><img src="https://github.com/junian.png" width="128px" class="color-bg-default border circle"></a>
+<a href="/" alt="Junian.dev Home Page"><img src="https://github.com/junian.png" width="128px" style="border-radius: 50%; box-shadow: 0 0 0 1px lightgray;"></a>
 {: .text-center .mx-auto }
 
 # Junian.dev
