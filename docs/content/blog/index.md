@@ -28,9 +28,10 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Nov 12, 2025` [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-community-download-links/)
+- `Nov 12, 2025` [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/)
 - `Nov 04, 2025` [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.net/dev/microsoft-sql-server-apple-silicon-mac/)
 - `Nov 02, 2025` [How to Change the Default Screenshot Folder on macOS](https://www.junian.net/tech/macos-change-screenshot-folder/)
-- `Nov 01, 2025` [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/)
 - `Oct 31, 2025` [Always Show Filename Extensions in Windows Explorer](https://www.junian.net/tech/windows-explorer-show-file-extension/)
 - `Oct 30, 2025` [Enable Three Finger Window Drag on macOS](https://www.junian.net/tech/macos-three-finger-drag-window/)
 - `Oct 29, 2025` [Activate Windows Developer Mode](https://www.junian.net/tech/windows-developer-mode/)
@@ -51,7 +52,6 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Sep 13, 2025` [Fixing exFAT Drives on macOS](https://www.junian.net/tech/macos-fix-exfat/)
 - `Sep 12, 2025` [Batman Math Equation](https://www.junian.net/tech/batman-math-equation/)
 - `Sep 11, 2025` [How to Fix a Corrupted Video with FFmpeg](https://www.junian.net/tech/ffmpeg-fix-corrupted-video/)
-- `Sep 10, 2025` [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-community-download-links/)
 - `Sep 09, 2025` [How to Set the Default GitHub Branch to 'master'](https://www.junian.net/dev/github-master-branch/)
 - `Sep 08, 2025` [How to Uninstall Old .NET SDK and Runtime Versions on macOS](https://www.junian.net/dev/dotnet-sdk-runtime-macos-removal/)
 - `Sep 07, 2025` [How to Fix 'gpg: decryption failed: No pinentry' on macOS](https://www.junian.net/tech/macos-gpg-decryption-failed-no-pinentry/)
