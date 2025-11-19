@@ -70,11 +70,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Microsoft Remote Desktop Client App for Older macOS Versions](https://www.junian.net/tech/macos-microsoft-remote-desktop-client-app/) <sub>November 19, 2025</sub>
 - [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-community-download-links/) <sub>November 12, 2025</sub>
 - [SQL Server Management Studio - All Versions Download](https://www.junian.net/dev/sql-server-management-studio-all-versions-download/) <sub>November 12, 2025</sub>
 - [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.net/dev/microsoft-sql-server-apple-silicon-mac/) <sub>November 04, 2025</sub>
 - [How to Change the Default Screenshot Folder on macOS](https://www.junian.net/tech/macos-change-screenshot-folder/) <sub>November 02, 2025</sub>
-- [Always Show Filename Extensions in Windows Explorer](https://www.junian.net/tech/windows-explorer-show-file-extension/) <sub>October 31, 2025</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -82,11 +82,11 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA) <sub>November 18, 2025</sub>
 - [Terminal Command to Open Anything in Windows: Start!](https://www.youtube.com/watch?v=gawTA63JgCg) <sub>November 03, 2025</sub>
 - [Solving Xamarin iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.youtube.com/watch?v=rnwKEtFM0vM) <sub>October 31, 2025</sub>
 - [How to Enable Three Finger Drag on macOS](https://www.youtube.com/watch?v=iPPxkdKFhJ4) <sub>October 30, 2025</sub>
 - [Incorrect Filename from Wget Download and How to Fix It](https://www.youtube.com/watch?v=aOTe3czWcsc) <sub>October 29, 2025</sub>
-- [Scoop Package Manager Quickstart on Windows](https://www.youtube.com/watch?v=JugEIxYr3jk) <sub>October 22, 2025</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
