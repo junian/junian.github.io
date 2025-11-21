@@ -8,7 +8,7 @@ search_exclude: true
 
 <h1 id="main-404-title">Page not found</h1>
 
-<p id="main-404-description">The page you requested could not be found. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for or go to this <a href="{{ '/' | relative_url }}">site's home page</a>.</p>
+<p id="main-404-description"><span class='page-not-found'>The page you requested could not be found</span>. Try using the navigation {% if site.search_enabled != false %}or search {% endif %}to find what you're looking for or go to this <a href="{{ '/' | relative_url }}">site's home page</a>.</p>
 
 <script>
   let path = window.location.pathname;
@@ -18,8 +18,11 @@ search_exclude: true
   if (match) {
     let repo = match[1];
     let toUrl = 'https://github.com/junian/' + repo;
-    document.querySelector('#main-404-title').textContent = 'Redirecting ...';
+    document.querySelector('#main-404-title').innerHTML = 'Redirecting ...';
     document.querySelector('#main-404-description').innerHTML = `Redirecting to <a href='${toUrl}'>${toUrl}</a> ...`;
     window.location.replace(toUrl);
+  } else {
+    document.title = `${document.title} - ${window.location.pathname}`;
+    document.querySelector('span.page-not-found').innerHTML = `The page <code>${window.location.href}</code> you requested could not be found`;
   }
 </script>
