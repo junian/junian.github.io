@@ -20,11 +20,10 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 [![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
  "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
 [![Junian GitHub account](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "Junian GitHub Account")](https://github.com/junian)
+[![Hire Junian on Upwork](https://img.shields.io/badge/Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 {: .text-center .mx-auto }
 
 <!--
-[![Hire Junian on Upwork](https://img.shields.io/badge/UpWork-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
-
 
 **[Portfolio](./p/)** - **[Resume](./resume/)** - **[About](./about/)**
 
@@ -36,6 +35,7 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 - [Blazor Apps](./blazor-apps/) - Browser-based mini tools, built with Blazor ([YouTube thumbnail extractor](./blazor-apps/get-youtube-thumbnail/), etc.).
 -->
 
+- [Junian Network](https://www.junian.net/) - Tech and Dev tutorial without a headache. Built with Hugo + Bootstrap.
 - [Vanilla Web Apps](./web-apps/) - Simple web apps written in Vanilla HTML, CSS, and JS. For experiment and fun.
 - [Markdown Resume](./markdown-resume/) - Write your Resume in Markdown. ATS-friendly and optimized for developers.
 - [Fokus - Hugo Theme](./hugo-fokus/) - Simple, minimalist, lightweight, and fast theme for the Hugo website. Based on Bootstrap 3 for maximum backward compatibility. It'll still look beautiful on Internet Explorer.
