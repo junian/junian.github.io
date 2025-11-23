@@ -17,14 +17,16 @@ Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my hum
 {: .text-center .mx-auto .fs-6 .fw-300 }
 
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
-[![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
- "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
+[![Junian Dev YouTube Channel](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white "Junian Dev YouTube Channel")](https://www.junian.dev/youtube/)
 [![Junian GitHub account](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "Junian GitHub Account")](https://github.com/junian)
 [![Hire Junian on Upwork](https://img.shields.io/badge/Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white "Hire Junian on Upwork")](https://www.junian.dev/upwork/)
 {: .text-center .mx-auto }
 
 <!--
 
+[![Junian YouTube](https://img.shields.io/youtube/channel/views/UCepvZYlW1tWJ8bu3dWLQh2w?style=for-the-badge&logo=youtube&label=YouTube&labelColor=ff0000&color=555555
+ "Junian YouTube Channel")](https://www.youtube.com/@JunianDev)
+ 
 **[Portfolio](./p/)** - **[Resume](./resume/)** - **[About](./about/)**
 
 -->
