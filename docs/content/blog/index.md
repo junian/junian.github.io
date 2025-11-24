@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Nov 24, 2025` [macOS Screen Mirror Keyboard Shortcut](https://www.junian.net/tech/macos-screen-mirror-keyboard-shortcut/)
 - `Nov 22, 2025` [Windows App for macOS Download Links](https://www.junian.net/tech/macos-microsoft-windows-app-downloads/)
 - `Nov 22, 2025` [Microsoft SQL Server Developer Downloads - 2025, 2022, 2019, 2017](https://www.junian.net/dev/microsoft-sql-server-developer-edition-download-links/)
 - `Nov 21, 2025` [Microsoft SQL Server Express Downloads - 2025, 2022, 2019, 2017](https://www.junian.net/dev/microsoft-sql-server-express-download-links/)

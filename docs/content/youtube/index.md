@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Nov 24, 2025` [Screen Mirror Shortcut for MacBook / macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk)
 - `Nov 18, 2025` [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA)
 - `Nov 03, 2025` [Terminal Command to Open Anything in Windows: Start!](https://www.youtube.com/watch?v=gawTA63JgCg)
 - `Oct 31, 2025` [Solving Xamarin iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.youtube.com/watch?v=rnwKEtFM0vM)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Oct 14, 2025` [Listen to Calming Background Sounds on macOS](https://www.youtube.com/watch?v=u-cheQ0JKKU)
 - `Oct 13, 2025` [Fixing Video Aspect Ratio with FFmpeg without Re-Encoding](https://www.youtube.com/watch?v=bgRWm_CvQ2k)
 - `Oct 12, 2025` [FFmpeg Concatenate Multiple Videos into a Single Video File](https://www.youtube.com/watch?v=O0svfWlyQlM)
-- `Oct 11, 2025` [How to Display File Extension on Windows Explorer](https://www.youtube.com/watch?v=JRjp7hlG4N8)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
