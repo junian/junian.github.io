@@ -22,7 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
-- `Nov 24, 2025` [Screen Mirror Shortcut for MacBook / macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk)
+- `Nov 24, 2025` [Mac Keyboard Shortcut to Display on External Monitor / Screen Mirror Shortcut for MacBook or macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk)
 - `Nov 18, 2025` [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA)
 - `Nov 03, 2025` [Terminal Command to Open Anything in Windows: Start!](https://www.youtube.com/watch?v=gawTA63JgCg)
 - `Oct 31, 2025` [Solving Xamarin iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.youtube.com/watch?v=rnwKEtFM0vM)
