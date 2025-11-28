@@ -13,7 +13,7 @@ permalink: /
 # Junian.dev
 {: .text-center .mx-auto .fs-9 }
 
-Hi 👋, I'm **Junian** the **Experienced Software Engineer**. Welcome to my humble site.
+Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humble site.
 {: .text-center .mx-auto .fs-6 .fw-300 }
 
 [![Junian Dev Tech Blog](https://img.shields.io/badge/Tech_Blog-1a73e8?style=for-the-badge&logo=hugo&logoColor=white "Junian Dev Tech Blog")](https://www.junian.dev/blog/)
