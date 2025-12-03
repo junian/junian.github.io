@@ -28,6 +28,9 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Dec 03, 2025` [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/)
+- `Dec 02, 2025` [Microsoft Office for macOS Download Links](https://www.junian.net/tech/microsoft-office-macos-download-links/)
+- `Dec 01, 2025` [Managing macOS System Extensions From the Terminal](https://www.junian.net/tech/macos-system-extension-management/)
 - `Nov 27, 2025` [Using a Closed MacBook with an External Monitor (Clamshell Mode)](https://www.junian.net/tech/macbook-clamshell-mode/)
 - `Nov 24, 2025` [macOS Screen Mirror Keyboard Shortcut](https://www.junian.net/tech/macos-screen-mirror-keyboard-shortcut/)
 - `Nov 22, 2025` [Windows App for macOS Download Links](https://www.junian.net/tech/macos-microsoft-windows-app-downloads/)
@@ -54,7 +57,6 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Sep 29, 2025` [GitHub Actions Bot Username and Email Address](https://www.junian.net/dev/github-actions-bot-username-email-address/)
 - `Sep 28, 2025` [How to Allow Underscore Headers in Nginx](https://www.junian.net/dev/nginx-allow-underscore-header/)
 - `Sep 27, 2025` [Run a .NET App from a Single C# File](https://www.junian.net/dev/dotnet-run-csharp-app/)
-- `Sep 26, 2025` [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/)
 - `Sep 25, 2025` [How to Fix Git Refusing to Merge Unrelated Histories Issue](https://www.junian.net/dev/git-refusing-to-merge-unrelated-histories/)
 - `Sep 16, 2025` [A Simple Mathematical Expression Tokenizer in C++](https://www.junian.net/dev/cpp-math-expression-tokenizer/)
 - `Sep 13, 2025` [Fixing exFAT Drives on macOS](https://www.junian.net/tech/macos-fix-exfat/)

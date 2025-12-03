@@ -72,11 +72,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/) <sub>December 03, 2025</sub>
+- [Microsoft Office for macOS Download Links](https://www.junian.net/tech/microsoft-office-macos-download-links/) <sub>December 02, 2025</sub>
+- [Managing macOS System Extensions From the Terminal](https://www.junian.net/tech/macos-system-extension-management/) <sub>December 01, 2025</sub>
 - [Using a Closed MacBook with an External Monitor (Clamshell Mode)](https://www.junian.net/tech/macbook-clamshell-mode/) <sub>November 27, 2025</sub>
 - [macOS Screen Mirror Keyboard Shortcut](https://www.junian.net/tech/macos-screen-mirror-keyboard-shortcut/) <sub>November 24, 2025</sub>
-- [Windows App for macOS Download Links](https://www.junian.net/tech/macos-microsoft-windows-app-downloads/) <sub>November 22, 2025</sub>
-- [Microsoft SQL Server Developer Downloads - 2025, 2022, 2019, 2017](https://www.junian.net/dev/microsoft-sql-server-developer-edition-download-links/) <sub>November 22, 2025</sub>
-- [Microsoft SQL Server Express Downloads - 2025, 2022, 2019, 2017](https://www.junian.net/dev/microsoft-sql-server-express-download-links/) <sub>November 21, 2025</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
