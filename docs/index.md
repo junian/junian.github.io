@@ -34,7 +34,6 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 > *"We all die. The goal isn't to live forever, the goal is to create something that will."*
 >
 > **― Chuck Palahniuk**
-{: .text-center .mx-auto }
 
 ## 🕸️ Web
 
