@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Installing Visual Studio 2022 Community in 2026](https://www.youtube.com/watch?v=cLrk2zt4buQ) <sub>December 05, 2025</sub>
 - [How to use MacBook in Clamshell Mode / Screen Lid Closed with External Display](https://www.youtube.com/watch?v=pnYnRerlhXk) <sub>November 26, 2025</sub>
 - [Mac Keyboard Shortcut to Display on External Monitor / Screen Mirror Shortcut for MacBook or macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk) <sub>November 24, 2025</sub>
 - [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA) <sub>November 18, 2025</sub>
 - [Terminal Command to Open Anything in Windows: Start!](https://www.youtube.com/watch?v=gawTA63JgCg) <sub>November 03, 2025</sub>
-- [Solving Xamarin iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.youtube.com/watch?v=rnwKEtFM0vM) <sub>October 31, 2025</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }

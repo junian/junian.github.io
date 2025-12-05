@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Dec 05, 2025` [Installing Visual Studio 2022 Community in 2026](https://www.youtube.com/watch?v=cLrk2zt4buQ)
 - `Nov 26, 2025` [How to use MacBook in Clamshell Mode / Screen Lid Closed with External Display](https://www.youtube.com/watch?v=pnYnRerlhXk)
 - `Nov 24, 2025` [Mac Keyboard Shortcut to Display on External Monitor / Screen Mirror Shortcut for MacBook or macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk)
 - `Nov 18, 2025` [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Oct 16, 2025` [How to NOT Auto Update macOS](https://www.youtube.com/watch?v=33L--ZBRvfk)
 - `Oct 15, 2025` [Local Area Network Bandwidth Speed Test with iperf3 Tutorial](https://www.youtube.com/watch?v=V0EhVCCxTuc)
 - `Oct 14, 2025` [Listen to Calming Background Sounds on macOS](https://www.youtube.com/watch?v=u-cheQ0JKKU)
-- `Oct 13, 2025` [Fixing Video Aspect Ratio with FFmpeg without Re-Encoding](https://www.youtube.com/watch?v=bgRWm_CvQ2k)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
