@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Dec 08, 2025` [Disabling (or Enabling) Reserved Storage on Windows 11](https://www.junian.net/tech/windows-reserved-storage-disable-enable/)
 - `Dec 06, 2025` [Disable or Enable Hibernation on Windows](https://www.junian.net/tech/windows-disable-or-enable-hibernate/)
 - `Dec 05, 2025` [Robots.txt to Allow LLM AI Like ChatGPT for Search Only Using Content Signals](https://www.junian.net/tech/robots-txt-search-only-llm-ai-gpt/)
 - `Dec 03, 2025` [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/)
