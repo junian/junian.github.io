@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Formatting a new SSD / Hard Drive on Windows 11](https://www.youtube.com/watch?v=lQQwZssNlGg) <sub>December 10, 2025</sub>
 - [Disable Reserved Storage on Windows 11](https://www.youtube.com/watch?v=tnWAP3fGN8U) <sub>December 08, 2025</sub>
 - [Installing Visual Studio 2022 Community in 2025](https://www.youtube.com/watch?v=cLrk2zt4buQ) <sub>December 05, 2025</sub>
 - [How to use MacBook in Clamshell Mode / Screen Lid Closed with External Display](https://www.youtube.com/watch?v=pnYnRerlhXk) <sub>November 26, 2025</sub>
 - [Mac Keyboard Shortcut to Display on External Monitor / Screen Mirror Shortcut for MacBook or macOS](https://www.youtube.com/watch?v=sRJAzUL1jRk) <sub>November 24, 2025</sub>
-- [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA) <sub>November 18, 2025</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
