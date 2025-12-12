@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Dahua DVR/XVR SSH Password](https://www.junian.net/tech/dahua-dvr-xvr-ssh-password/) <sub>December 11, 2025</sub>
 - [Disabling (or Enabling) Reserved Storage on Windows 11](https://www.junian.net/tech/windows-reserved-storage-disable-enable/) <sub>December 08, 2025</sub>
 - [Disable or Enable Hibernation on Windows](https://www.junian.net/tech/windows-disable-or-enable-hibernate/) <sub>December 06, 2025</sub>
 - [Robots.txt to Allow LLM AI Like ChatGPT for Search Only Using Content Signals](https://www.junian.net/tech/robots-txt-search-only-llm-ai-gpt/) <sub>December 05, 2025</sub>
 - [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/) <sub>December 03, 2025</sub>
-- [Microsoft Office for macOS Download Links](https://www.junian.net/tech/microsoft-office-macos-download-links/) <sub>December 02, 2025</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
