@@ -19,7 +19,7 @@ Tools, services, and hardwares that I use or like to use.
 * __Portable Gaming:__ SteamDeck 1st Generation LCD (16GB RAM, 512GB SSD, 512GB Samsung microSD) with SteamOS / Arch Linux.
 * __Primary Smartphone:__ iPhone 15 Pro (8GB RAM, 128GB Storage) with iOS 18.
 * __Primary Tablet:__ iPad (A16) (6GB RAM, 128GB Storage) with iOS 18.
-* __eInk Tablet:__ Kindle Paperwhite 32GB
+* __e-Reader:__ Kindle Paperwhite (10th Generation) 32GB
 * __Secondary Smartphone:__ Samsung Galaxy S10 Lite (8GB RAM, 128GB Storage, 256GB Samsung microSD) with Android 13.
 * __Secondary Tablet:__ Galaxy Tab S6 (6GB RAM, 128GB Storage, 256GB Samsung microSD) with Android 12.
 
