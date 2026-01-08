@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Jan 07, 2026` [Open macOS App that Refuses to be Opened](https://www.youtube.com/watch?v=o4-sX9Tydz0)
 - `Dec 10, 2025` [Formatting a new SSD / Hard Drive on Windows 11](https://www.youtube.com/watch?v=lQQwZssNlGg)
 - `Dec 08, 2025` [Disable Reserved Storage on Windows 11](https://www.youtube.com/watch?v=tnWAP3fGN8U)
 - `Dec 05, 2025` [Installing Visual Studio 2022 Community in 2026](https://www.youtube.com/watch?v=cLrk2zt4buQ)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Oct 21, 2025` [Battery Charge Limit on macOS](https://www.youtube.com/watch?v=qn6DdrRBg0s)
 - `Oct 20, 2025` [Windows VPN Split Tunneling](https://www.youtube.com/watch?v=9shE_ahElug)
 - `Oct 17, 2025` [How to Convert macOS App Icon (icns) to a PNG Image File](https://www.youtube.com/watch?v=GSJ2RVHTm_M)
-- `Oct 16, 2025` [How to NOT Auto Update macOS](https://www.youtube.com/watch?v=33L--ZBRvfk)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
