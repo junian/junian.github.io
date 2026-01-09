@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Jan 09, 2026` [Fixing Unable to install the Microsoft Word Plugin Issue of Mendeley Desktop on macOS](https://www.youtube.com/watch?v=pTgoOleEnm0)
 - `Jan 07, 2026` [Open macOS App that Refuses to be Opened](https://www.youtube.com/watch?v=o4-sX9Tydz0)
 - `Dec 10, 2025` [Formatting a new SSD / Hard Drive on Windows 11](https://www.youtube.com/watch?v=lQQwZssNlGg)
 - `Dec 08, 2025` [Disable Reserved Storage on Windows 11](https://www.youtube.com/watch?v=tnWAP3fGN8U)
@@ -34,9 +35,8 @@ Following are the latest 15 videos I've created.
 - `Oct 30, 2025` [How to Enable Three Finger Drag on macOS](https://www.youtube.com/watch?v=iPPxkdKFhJ4)
 - `Oct 29, 2025` [Incorrect Filename from Wget Download and How to Fix It](https://www.youtube.com/watch?v=aOTe3czWcsc)
 - `Oct 22, 2025` [Scoop Package Manager Quickstart on Windows](https://www.youtube.com/watch?v=JugEIxYr3jk)
-- `Oct 21, 2025` [Battery Charge Limit on macOS](https://www.youtube.com/watch?v=qn6DdrRBg0s)
+- `Oct 21, 2025` [Battery Charge Limit on macOS. How to force macOS stop charging battery at 80% manually.](https://www.youtube.com/watch?v=qn6DdrRBg0s)
 - `Oct 20, 2025` [Windows VPN Split Tunneling](https://www.youtube.com/watch?v=9shE_ahElug)
-- `Oct 17, 2025` [How to Convert macOS App Icon (icns) to a PNG Image File](https://www.youtube.com/watch?v=GSJ2RVHTm_M)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
