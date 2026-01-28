@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Jan 28, 2026` [Deploy a .NET 10 Blazor WebAssembly App to Cloudflare Pages](https://www.junian.net/dev/deploy-blazor-to-cloudflare-pages/)
 - `Dec 11, 2025` [Dahua DVR/XVR SSH Password](https://www.junian.net/tech/dahua-dvr-xvr-ssh-password/)
 - `Dec 08, 2025` [Disabling (or Enabling) Reserved Storage on Windows 11](https://www.junian.net/tech/windows-reserved-storage-disable-enable/)
 - `Dec 06, 2025` [Disable or Enable Hibernation on Windows](https://www.junian.net/tech/windows-disable-or-enable-hibernate/)
@@ -113,7 +114,6 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Apr 29, 2024` [Mac Owner using PC: How to Use the 'open' Command in Windows](https://www.junian.net/tech/windows-open-command-like-macos/)
 - `Apr 17, 2024` [VSCode Avalonia Extension Download .NET Runtime Issue](https://www.junian.net/dev/vscode-avalonia-requested-to-download-dotnet-runtime/)
 - `Apr 17, 2024` [Retrieving Keychain Passwords in Swift for macOS](https://www.junian.net/dev/swift-get-keychain-password/)
-- `Apr 15, 2024` [Deploy a .NET 8 Blazor Site to Cloudflare Pages](https://www.junian.net/dev/deploy-blazor-to-cloudflare-pages/)
 - `Mar 21, 2024` [How to Install AdGuard Home on Windows](https://www.junian.net/tech/windows-install-adguard-home/)
 - `Oct 31, 2023` [How to Enter an x86_64 Shell on macOS: A Guide for Apple Silicon Users](https://www.junian.net/dev/macos-x86_64-shell-from-arm64/)
 - `Oct 30, 2023` [How to Fix the 'zsh compinit: insecure directories' Error on macOS](https://www.junian.net/dev/macos-fix-zsh-compinit-insecure-directories/)
