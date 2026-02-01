@@ -32,6 +32,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Jan 30, 2026` [How to Deploy a Blazor WebAssembly Standalone App to GitHub Pages](https://www.junian.net/dev/deploy-blazor-webassembly-standalone-to-github-pages/)
 - `Jan 29, 2026` [How to Check Disk Drive Allocation Unit Size on Windows](https://www.junian.net/tech/windows-check-allocation-unit-size/)
 - `Jan 28, 2026` [Deploy a .NET 10 Blazor WebAssembly App to Cloudflare Pages](https://www.junian.net/dev/deploy-blazor-to-cloudflare-pages/)
+- `Jan 27, 2026` [Visual Studio Code and Its Forks with FREE AI](https://www.junian.net/dev/vscode-forks/)
 - `Dec 11, 2025` [Dahua DVR/XVR SSH Password](https://www.junian.net/tech/dahua-dvr-xvr-ssh-password/)
 - `Dec 08, 2025` [Disabling (or Enabling) Reserved Storage on Windows 11](https://www.junian.net/tech/windows-reserved-storage-disable-enable/)
 - `Dec 06, 2025` [Disable or Enable Hibernation on Windows](https://www.junian.net/tech/windows-disable-or-enable-hibernate/)
