@@ -22,6 +22,8 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Feb 05, 2026` [Turn off Dahua CCTV XVR NVR DVR Beeping / Buzzer Sound / No Disk Alarm Noise](https://www.youtube.com/watch?v=87to6eASaaI)
+- `Feb 04, 2026` [Convert HDR to SDR Video with HandBrake app - Remove HDR from a Video file](https://www.youtube.com/watch?v=na-r0koyz2s)
 - `Jan 22, 2026` [How to Reset your Mac to Factory Default / Erase All Content and Settings before Selling the Mac](https://www.youtube.com/watch?v=51MYNkzi1Cc)
 - `Jan 14, 2026` [How to Restore the missing Wi-Fi icon from Recovery Assistant of macOS](https://www.youtube.com/watch?v=oZvv6DI4cHI)
 - `Jan 12, 2026` [Fixing 'zsh compinit: insecure directories' Error on macOS](https://www.youtube.com/watch?v=N69iZwc7rVM)
@@ -35,8 +37,6 @@ Following are the latest 15 videos I've created.
 - `Nov 18, 2025` [Disable / Enable Hibernate on Windows](https://www.youtube.com/watch?v=yMDH04IZ8dA)
 - `Nov 03, 2025` [Terminal Command to Open Anything in Windows: Start!](https://www.youtube.com/watch?v=gawTA63JgCg)
 - `Oct 31, 2025` [Solving Xamarin iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.youtube.com/watch?v=rnwKEtFM0vM)
-- `Oct 30, 2025` [How to Enable Three Finger Drag on macOS](https://www.youtube.com/watch?v=iPPxkdKFhJ4)
-- `Oct 29, 2025` [Incorrect Filename from Wget Download and How to Fix It](https://www.youtube.com/watch?v=aOTe3czWcsc)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
