@@ -28,7 +28,8 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
-- `Feb 03, 2026` [Visual Studio Older Downloads: 2026, 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-downloads/)
+- `Feb 05, 2026` [Turn Off Dahua CCTV NVR or DVR/XVR Beeping Noise](https://www.junian.net/tech/dahua-cctv-nvr-dvr-xvr-beeping-noise/)
+- `Feb 03, 2026` [Visual Studio Older Downloads: 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-downloads/)
 - `Feb 02, 2026` [How to Set the Default Hugo Archetypes to the Next Day](https://www.junian.net/dev/hugo-archetypes-default-date-next-day/)
 - `Feb 01, 2026` [Rotate Video with FFmpeg](https://www.junian.net/tech/ffmpeg-rotate-video/)
 - `Jan 31, 2026` [Old Pages, Numbers, and Keynote iWork macOS App Download Links](https://www.junian.net/tech/macos-old-pages-numbers-keynote-download-links/)
@@ -36,7 +37,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Jan 29, 2026` [How to Check Disk Drive Allocation Unit Size on Windows](https://www.junian.net/tech/windows-check-allocation-unit-size/)
 - `Jan 28, 2026` [Deploy a .NET 10 Blazor WebAssembly App to Cloudflare Pages](https://www.junian.net/dev/deploy-blazor-to-cloudflare-pages/)
 - `Jan 27, 2026` [Visual Studio Code (VS Code) and Its Forks with Free AI Assistants](https://www.junian.net/dev/vscode-forks/)
-- `Dec 11, 2025` [Dahua DVR/XVR SSH Password](https://www.junian.net/tech/dahua-dvr-xvr-ssh-password/)
+- `Dec 11, 2025` [Dahua NVR or DVR/XVR SSH Password](https://www.junian.net/tech/dahua-nvr-dvr-xvr-ssh-password/)
 - `Dec 08, 2025` [Disabling (or Enabling) Reserved Storage on Windows 11](https://www.junian.net/tech/windows-reserved-storage-disable-enable/)
 - `Dec 06, 2025` [Disable or Enable Hibernation on Windows](https://www.junian.net/tech/windows-disable-or-enable-hibernate/)
 - `Dec 05, 2025` [Robots.txt to Allow LLM AI Like ChatGPT for Search Only Using Content Signals](https://www.junian.net/tech/robots-txt-search-only-llm-ai-gpt/)
