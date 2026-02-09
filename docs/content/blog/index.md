@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 09, 2026` [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/)
 - `Feb 05, 2026` [Turn Off Dahua CCTV NVR or DVR/XVR Beeping Noise](https://www.junian.net/tech/dahua-cctv-nvr-dvr-xvr-beeping-noise/)
 - `Feb 03, 2026` [Visual Studio Older Downloads: 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-downloads/)
 - `Feb 02, 2026` [How to Set the Default Hugo Archetypes to the Next Day](https://www.junian.net/dev/hugo-archetypes-default-date-next-day/)
@@ -42,7 +43,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Dec 06, 2025` [Disable or Enable Hibernation on Windows](https://www.junian.net/tech/windows-disable-or-enable-hibernate/)
 - `Dec 05, 2025` [Robots.txt to Allow LLM AI Like ChatGPT for Search Only Using Content Signals](https://www.junian.net/tech/robots-txt-search-only-llm-ai-gpt/)
 - `Dec 03, 2025` [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.net/dev/install-multiple-dotnet-macos-homebrew/)
-- `Dec 02, 2025` [Microsoft Office for macOS Download Links](https://www.junian.net/tech/microsoft-office-macos-download-links/)
+- `Dec 02, 2025` [Older Microsoft Office for macOS Download Links](https://www.junian.net/tech/microsoft-office-macos-download-links/)
 - `Dec 01, 2025` [Managing macOS System Extensions From the Terminal](https://www.junian.net/tech/macos-system-extension-management/)
 - `Nov 27, 2025` [Using a Closed MacBook with an External Monitor (Clamshell Mode)](https://www.junian.net/tech/macbook-clamshell-mode/)
 - `Nov 24, 2025` [macOS Screen Mirror Keyboard Shortcut](https://www.junian.net/tech/macos-screen-mirror-keyboard-shortcut/)
