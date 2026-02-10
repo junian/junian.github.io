@@ -28,8 +28,12 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 10, 2026` [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/)
 - `Feb 09, 2026` [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/)
+- `Feb 08, 2026` [Installing Visual Studio 2019 Community Edition (Step by Step)](https://www.junian.net/dev/install-visual-studio-2019/)
+- `Feb 06, 2026` [How to Create an Empty Orphan Git Branch](https://www.junian.net/dev/git-create-orphan-branch/)
 - `Feb 05, 2026` [Turn Off Dahua CCTV NVR or DVR/XVR Beeping Noise](https://www.junian.net/tech/dahua-cctv-nvr-dvr-xvr-beeping-noise/)
+- `Feb 04, 2026` [How to Convert HDR Video to SDR Using HandBrake](https://www.junian.net/tech/handbrake-hdr-to-sdr-video/)
 - `Feb 03, 2026` [Visual Studio Older Downloads: 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-downloads/)
 - `Feb 02, 2026` [How to Set the Default Hugo Archetypes to the Next Day](https://www.junian.net/dev/hugo-archetypes-default-date-next-day/)
 - `Feb 01, 2026` [Rotate Video with FFmpeg](https://www.junian.net/tech/ffmpeg-rotate-video/)

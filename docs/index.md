@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/) <sub>February 10, 2026</sub>
 - [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/) <sub>February 09, 2026</sub>
+- [Installing Visual Studio 2019 Community Edition (Step by Step)](https://www.junian.net/dev/install-visual-studio-2019/) <sub>February 08, 2026</sub>
+- [How to Create an Empty Orphan Git Branch](https://www.junian.net/dev/git-create-orphan-branch/) <sub>February 06, 2026</sub>
 - [Turn Off Dahua CCTV NVR or DVR/XVR Beeping Noise](https://www.junian.net/tech/dahua-cctv-nvr-dvr-xvr-beeping-noise/) <sub>February 05, 2026</sub>
-- [Visual Studio Older Downloads: 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-downloads/) <sub>February 03, 2026</sub>
-- [How to Set the Default Hugo Archetypes to the Next Day](https://www.junian.net/dev/hugo-archetypes-default-date-next-day/) <sub>February 02, 2026</sub>
-- [Rotate Video with FFmpeg](https://www.junian.net/tech/ffmpeg-rotate-video/) <sub>February 01, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4) <sub>February 10, 2026</sub>
 - [How to mount External Drives to CasaOS on Mac](https://www.youtube.com/watch?v=6Q2TXT8aUFA) <sub>February 09, 2026</sub>
 - [Installing Visual Studio Community 2019 in 2026](https://www.youtube.com/watch?v=vAIg4b6IyXI) <sub>February 06, 2026</sub>
 - [Turn off Dahua CCTV XVR NVR DVR Beeping / Buzzer Sound / No Disk Alarm Noise](https://www.youtube.com/watch?v=87to6eASaaI) <sub>February 05, 2026</sub>
 - [Convert HDR to SDR Video with HandBrake app - Remove HDR from a Video file](https://www.youtube.com/watch?v=na-r0koyz2s) <sub>February 04, 2026</sub>
-- [How to Reset your Mac to Factory Default / Erase All Content and Settings before Selling the Mac](https://www.youtube.com/watch?v=51MYNkzi1Cc) <sub>January 22, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
