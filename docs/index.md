@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Fixing .NET SDK Resolver Failure](https://www.junian.net/dev/dotnet-sdk-resolver-failure/) <sub>February 11, 2026</sub>
 - [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/) <sub>February 10, 2026</sub>
 - [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/) <sub>February 09, 2026</sub>
 - [Installing Visual Studio 2019 Community Edition (Step by Step)](https://www.junian.net/dev/install-visual-studio-2019/) <sub>February 08, 2026</sub>
-- [How to Create an Empty Orphan Git Branch](https://www.junian.net/dev/git-create-orphan-branch/) <sub>February 06, 2026</sub>
-- [Turn Off Dahua CCTV NVR or DVR/XVR Beeping Noise](https://www.junian.net/tech/dahua-cctv-nvr-dvr-xvr-beeping-noise/) <sub>February 05, 2026</sub>
+- [Fixing Mendeley Desktop Citation Plugin for Microsoft Word on macOS](https://www.junian.net/tech/macos-mendeley-desktop-microsoft-word-plugin/) <sub>February 07, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4) <sub>February 11, 2026</sub>
 - [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4) <sub>February 10, 2026</sub>
 - [How to mount External Drives to CasaOS on Mac](https://www.youtube.com/watch?v=6Q2TXT8aUFA) <sub>February 09, 2026</sub>
 - [Installing Visual Studio Community 2019 in 2026](https://www.youtube.com/watch?v=vAIg4b6IyXI) <sub>February 06, 2026</sub>
 - [Turn off Dahua CCTV XVR NVR DVR Beeping / Buzzer Sound / No Disk Alarm Noise](https://www.youtube.com/watch?v=87to6eASaaI) <sub>February 05, 2026</sub>
-- [Convert HDR to SDR Video with HandBrake app - Remove HDR from a Video file](https://www.youtube.com/watch?v=na-r0koyz2s) <sub>February 04, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
