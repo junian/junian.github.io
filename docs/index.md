@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Installing Visual Studio Community 2017 in 2026 and fixing startup error - Older Versions Download](https://www.youtube.com/watch?v=caHVWmJjHuE) <sub>February 12, 2026</sub>
 - [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4) <sub>February 11, 2026</sub>
 - [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4) <sub>February 10, 2026</sub>
 - [How to mount External Drives to CasaOS on Mac](https://www.youtube.com/watch?v=6Q2TXT8aUFA) <sub>February 09, 2026</sub>
-- [Installing Visual Studio Community 2019 in 2026](https://www.youtube.com/watch?v=vAIg4b6IyXI) <sub>February 06, 2026</sub>
-- [Turn off Dahua CCTV XVR NVR DVR Beeping / Buzzer Sound / No Disk Alarm Noise](https://www.youtube.com/watch?v=87to6eASaaI) <sub>February 05, 2026</sub>
+- [Installing Visual Studio Community 2019 in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=vAIg4b6IyXI) <sub>February 06, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
