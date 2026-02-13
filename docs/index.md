@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Install Visual Studio 2017 Community (And Fix the Startup Error)](https://www.junian.net/dev/install-visual-studio-2017/) <sub>February 12, 2026</sub>
 - [Fixing .NET SDK Resolver Failure](https://www.junian.net/dev/dotnet-sdk-resolver-failure/) <sub>February 11, 2026</sub>
 - [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/) <sub>February 10, 2026</sub>
 - [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/) <sub>February 09, 2026</sub>
 - [Installing Visual Studio 2019 Community Edition (Step by Step)](https://www.junian.net/dev/install-visual-studio-2019/) <sub>February 08, 2026</sub>
-- [Fixing Mendeley Desktop Citation Plugin for Microsoft Word on macOS](https://www.junian.net/tech/macos-mendeley-desktop-microsoft-word-plugin/) <sub>February 07, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI) <sub>February 13, 2026</sub>
 - [Installing Visual Studio Community 2017 in 2026 and fixing startup error - Older Versions Download](https://www.youtube.com/watch?v=caHVWmJjHuE) <sub>February 12, 2026</sub>
 - [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4) <sub>February 11, 2026</sub>
 - [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4) <sub>February 10, 2026</sub>
 - [How to mount External Drives to CasaOS on Mac](https://www.youtube.com/watch?v=6Q2TXT8aUFA) <sub>February 09, 2026</sub>
-- [Installing Visual Studio Community 2019 in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=vAIg4b6IyXI) <sub>February 06, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
