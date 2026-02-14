@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 13, 2026` [How to Disable Liquid Glass on macOS Tahoe (macOS 26)](https://www.junian.net/tech/macos-disable-liquid-glass/)
 - `Feb 12, 2026` [How to Install Visual Studio 2017 Community (And Fix the Startup Error)](https://www.junian.net/dev/install-visual-studio-2017/)
 - `Feb 11, 2026` [Fixing .NET SDK Resolver Failure](https://www.junian.net/dev/dotnet-sdk-resolver-failure/)
 - `Feb 10, 2026` [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/)
