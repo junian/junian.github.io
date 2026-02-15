@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How I Set a Manual Battery Charge Limit on MacBook (Like iPhone 80% Limit)](https://www.junian.net/tech/macos-manual-battery-charge-limit/) <sub>February 15, 2026</sub>
+- [How to Open a Blocked macOS App ("Apple Could Not Verify" Fix)](https://www.junian.net/tech/macos-apple-could-not-verify-app/) <sub>February 14, 2026</sub>
 - [How to Disable Liquid Glass on macOS Tahoe (macOS 26)](https://www.junian.net/tech/macos-disable-liquid-glass/) <sub>February 13, 2026</sub>
-- [How to Install Visual Studio 2017 Community (And Fix the Startup Error)](https://www.junian.net/dev/install-visual-studio-2017/) <sub>February 12, 2026</sub>
+- [How to Install Visual Studio Community 2017 and Fix the Startup Error](https://www.junian.net/dev/install-visual-studio-2017/) <sub>February 12, 2026</sub>
 - [Fixing .NET SDK Resolver Failure](https://www.junian.net/dev/dotnet-sdk-resolver-failure/) <sub>February 11, 2026</sub>
-- [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/) <sub>February 10, 2026</sub>
-- [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/) <sub>February 09, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
