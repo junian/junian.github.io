@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 16, 2026` [How to Set Your MacBook Screen Resolution to 16:9](https://www.junian.net/tech/macos-16-9-screen-resolution/)
 - `Feb 15, 2026` [How I Set a Manual Battery Charge Limit on MacBook (Like iPhone 80% Limit)](https://www.junian.net/tech/macos-manual-battery-charge-limit/)
 - `Feb 14, 2026` [How to Open a Blocked macOS App ("Apple Could Not Verify" Fix)](https://www.junian.net/tech/macos-apple-could-not-verify-app/)
 - `Feb 13, 2026` [How to Disable Liquid Glass on macOS Tahoe (macOS 26)](https://www.junian.net/tech/macos-disable-liquid-glass/)

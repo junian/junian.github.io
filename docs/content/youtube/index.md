@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Feb 17, 2026` [Installing Visual Studio Community 2015 in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=jiCI4KK7aWw)
 - `Feb 13, 2026` [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI)
 - `Feb 12, 2026` [Installing Visual Studio Community 2017 in 2026 and fixing startup error - Older Versions Download](https://www.youtube.com/watch?v=caHVWmJjHuE)
 - `Feb 11, 2026` [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Jan 09, 2026` [Fixing Unable to install the Microsoft Word Plugin Issue of Mendeley Desktop on macOS](https://www.youtube.com/watch?v=pTgoOleEnm0)
 - `Jan 07, 2026` [Open macOS App that Refuses to be Opened](https://www.youtube.com/watch?v=o4-sX9Tydz0)
 - `Dec 10, 2025` [Formatting a new SSD / Hard Drive on Windows 11](https://www.youtube.com/watch?v=lQQwZssNlGg)
-- `Dec 08, 2025` [Disable Reserved Storage on Windows 11](https://www.youtube.com/watch?v=tnWAP3fGN8U)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
