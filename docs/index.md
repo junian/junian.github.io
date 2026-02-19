@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/) <sub>February 19, 2026</sub>
+- [Apple Logo  Character Emoji Keyboard Shortcut](https://www.junian.net/tech/apple-logo-character-emoji-keyboard-shortcut/) <sub>February 18, 2026</sub>
+- [Fix Drag and Drop Issue in the Finder App on macOS](https://www.junian.net/tech/macos-fix-drag-and-drop/) <sub>February 17, 2026</sub>
 - [How to Set Your MacBook Screen Resolution to 16:9](https://www.junian.net/tech/macos-16-9-screen-resolution/) <sub>February 16, 2026</sub>
 - [How I Set a Manual Battery Charge Limit on MacBook (Like iPhone 80% Limit)](https://www.junian.net/tech/macos-manual-battery-charge-limit/) <sub>February 15, 2026</sub>
-- [How to Open a Blocked macOS App ("Apple Could Not Verify" Fix)](https://www.junian.net/tech/macos-apple-could-not-verify-app/) <sub>February 14, 2026</sub>
-- [How to Disable Liquid Glass on macOS Tahoe (macOS 26)](https://www.junian.net/tech/macos-disable-liquid-glass/) <sub>February 13, 2026</sub>
-- [How to Install Visual Studio Community 2017 and Fix the Startup Error](https://www.junian.net/dev/install-visual-studio-2017/) <sub>February 12, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }

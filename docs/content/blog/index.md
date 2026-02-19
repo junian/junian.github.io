@@ -28,6 +28,9 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 19, 2026` [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/)
+- `Feb 18, 2026` [Apple Logo  Character Emoji Keyboard Shortcut](https://www.junian.net/tech/apple-logo-character-emoji-keyboard-shortcut/)
+- `Feb 17, 2026` [Fix Drag and Drop Issue in the Finder App on macOS](https://www.junian.net/tech/macos-fix-drag-and-drop/)
 - `Feb 16, 2026` [How to Set Your MacBook Screen Resolution to 16:9](https://www.junian.net/tech/macos-16-9-screen-resolution/)
 - `Feb 15, 2026` [How I Set a Manual Battery Charge Limit on MacBook (Like iPhone 80% Limit)](https://www.junian.net/tech/macos-manual-battery-charge-limit/)
 - `Feb 14, 2026` [How to Open a Blocked macOS App ("Apple Could Not Verify" Fix)](https://www.junian.net/tech/macos-apple-could-not-verify-app/)
@@ -115,7 +118,6 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Nov 08, 2024` [Two Sum - LeetCode in C# - Brute force approach](https://www.junian.net/dev/two-sum-bruteforce/)
 - `Oct 25, 2024` [How to Run Microsoft Edge without CORS Restriction](https://www.junian.net/dev/microsoft-edge-disable-cors/)
 - `Oct 12, 2024` [Removing Full-Screen Intent Permission from Flutter Android](https://www.junian.net/dev/flutter-android-remove-permission-use-full-screen-intent/)
-- `Oct 10, 2024` [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/)
 - `Oct 09, 2024` [How to Ensure Rosetta 2 is Installed on macOS](https://www.junian.net/dev/macos-install-rosetta-2/)
 - `Oct 08, 2024` [How to Unzip Multiple Files with the Command Line](https://www.junian.net/tech/unzip-cli-multiple-files/)
 - `Oct 08, 2024` [Robots.txt Rules to Block LLM AI like ChatGPT from Crawling Your Web Content](https://www.junian.net/tech/robots-txt-block-llm-ai-gpt/)
