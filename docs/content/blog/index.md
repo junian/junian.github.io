@@ -28,7 +28,10 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 21, 2026` [How to Activate IndexNow with Cloudflare](https://www.juniandev.com/dev/cloudflare-indexnow/)
+- `Feb 20, 2026` [Using CommentBox in Jekyll Site](https://www.juniandev.com/dev/jekyll-commentbox/)
 - `Feb 19, 2026` [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/)
+- `Feb 19, 2026` [How to Integrate CommentBox to Your Hugo Site](https://www.juniandev.com/dev/hugo-commentbox/)
 - `Feb 18, 2026` [Apple Logo  Character Emoji Keyboard Shortcut](https://www.junian.net/tech/apple-logo-character-emoji-keyboard-shortcut/)
 - `Feb 17, 2026` [Fix Drag and Drop Issue in the Finder App on macOS](https://www.junian.net/tech/macos-fix-drag-and-drop/)
 - `Feb 16, 2026` [How to Set Your MacBook Screen Resolution to 16:9](https://www.junian.net/tech/macos-16-9-screen-resolution/)
