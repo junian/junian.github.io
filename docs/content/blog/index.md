@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 23, 2026` [How to Redirect Netlify Deploy Preview URL to Production URL](https://www.juniandev.com/dev/redirect-netlify-deploy-preview-url/)
 - `Feb 22, 2026` [How to Install Disqus to Jekyll Static Site](https://www.juniandev.com/dev/jekyll-disqus/)
 - `Feb 21, 2026` [How to Activate IndexNow with Cloudflare](https://www.juniandev.com/dev/cloudflare-indexnow/)
 - `Feb 20, 2026` [Using CommentBox in Jekyll Site](https://www.juniandev.com/dev/jekyll-commentbox/)
@@ -48,7 +49,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Feb 06, 2026` [How to Create an Empty Orphan Git Branch](https://www.junian.net/dev/git-create-orphan-branch/)
 - `Feb 05, 2026` [Turn Off Dahua CCTV NVR or DVR/XVR Beeping Noise](https://www.junian.net/tech/dahua-cctv-nvr-dvr-xvr-beeping-noise/)
 - `Feb 04, 2026` [How to Convert HDR Video to SDR Using HandBrake](https://www.junian.net/tech/handbrake-hdr-to-sdr-video/)
-- `Feb 03, 2026` [Visual Studio Older Downloads: 2022, 2019, 2017, 2015](https://www.junian.net/dev/visual-studio-downloads/)
+- `Feb 03, 2026` [Visual Studio Older Downloads (ISO + Installer): 2022, 2019, 2017, 2015, 2013](https://www.junian.net/dev/visual-studio-downloads/)
 - `Feb 02, 2026` [How to Set the Default Hugo Archetypes to the Next Day](https://www.junian.net/dev/hugo-archetypes-default-date-next-day/)
 - `Feb 01, 2026` [Rotate Video with FFmpeg](https://www.junian.net/tech/ffmpeg-rotate-video/)
 - `Jan 31, 2026` [Old Pages, Numbers, and Keynote iWork macOS App Download Links](https://www.junian.net/tech/macos-old-pages-numbers-keynote-download-links/)

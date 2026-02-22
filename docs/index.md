@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Redirect Netlify Deploy Preview URL to Production URL](https://www.juniandev.com/dev/redirect-netlify-deploy-preview-url/) <sub>February 23, 2026</sub>
 - [How to Install Disqus to Jekyll Static Site](https://www.juniandev.com/dev/jekyll-disqus/) <sub>February 22, 2026</sub>
 - [How to Activate IndexNow with Cloudflare](https://www.juniandev.com/dev/cloudflare-indexnow/) <sub>February 21, 2026</sub>
 - [Using CommentBox in Jekyll Site](https://www.juniandev.com/dev/jekyll-commentbox/) <sub>February 20, 2026</sub>
 - [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/) <sub>February 19, 2026</sub>
-- [How to Integrate CommentBox to Your Hugo Site](https://www.juniandev.com/dev/hugo-commentbox/) <sub>February 19, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
