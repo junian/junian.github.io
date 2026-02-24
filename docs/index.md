@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Redirect Netlify Preview URL with Hugo](https://www.juniandev.com/dev/hugo-redirect-netlify-preview-url/) <sub>February 25, 2026</sub>
+- [Install TradeNote on Windows](https://www.junian.net/dev/install-tradenote-on-windows/) <sub>February 25, 2026</sub>
 - [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.juniandev.com/dev/hugo-check-content-draft-future/) <sub>February 24, 2026</sub>
-- [macOS Screenshot Keyboard Shortcuts](https://www.junian.net/tech/macos-screenshot-shortcuts/) <sub>February 24, 2026</sub>
+- [How to Take Screenshot on Mac with Keyboard Shortcuts](https://www.junian.net/tech/macos-screenshot-shortcuts/) <sub>February 24, 2026</sub>
 - [How to Redirect Netlify Deploy Preview URL to Production URL](https://www.juniandev.com/dev/redirect-netlify-deploy-preview-url/) <sub>February 23, 2026</sub>
-- [Install .NET 11 SDK Preview on macOS Side-by-Side with Homebrew](https://www.junian.net/dev/install-dotnet-sdk-11-macos/) <sub>February 23, 2026</sub>
-- [How to Install Disqus to Jekyll Static Site](https://www.juniandev.com/dev/jekyll-disqus/) <sub>February 22, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
