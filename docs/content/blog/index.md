@@ -28,6 +28,8 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 26, 2026` [How to Generate Multiple Markdown Presentations with Marp and JavaScript](https://www.juniandev.com/dev/marp-generate-multiple-presentations/)
+- `Feb 26, 2026` [How to Take a macOS Window Screenshot Without the Shadow Background](https://www.junian.net/tech/macos-screenshot-without-shadow/)
 - `Feb 25, 2026` [Redirect Netlify Preview URL with Hugo](https://www.juniandev.com/dev/hugo-redirect-netlify-preview-url/)
 - `Feb 25, 2026` [Install TradeNote on Windows](https://www.junian.net/dev/install-tradenote-on-windows/)
 - `Feb 24, 2026` [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.juniandev.com/dev/hugo-check-content-draft-future/)

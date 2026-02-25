@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Generate Multiple Markdown Presentations with Marp and JavaScript](https://www.juniandev.com/dev/marp-generate-multiple-presentations/) <sub>February 26, 2026</sub>
+- [How to Take a macOS Window Screenshot Without the Shadow Background](https://www.junian.net/tech/macos-screenshot-without-shadow/) <sub>February 26, 2026</sub>
 - [Redirect Netlify Preview URL with Hugo](https://www.juniandev.com/dev/hugo-redirect-netlify-preview-url/) <sub>February 25, 2026</sub>
 - [Install TradeNote on Windows](https://www.junian.net/dev/install-tradenote-on-windows/) <sub>February 25, 2026</sub>
 - [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.juniandev.com/dev/hugo-check-content-draft-future/) <sub>February 24, 2026</sub>
-- [How to Take Screenshot on Mac with Keyboard Shortcuts](https://www.junian.net/tech/macos-screenshot-shortcuts/) <sub>February 24, 2026</sub>
-- [How to Redirect Netlify Deploy Preview URL to Production URL](https://www.juniandev.com/dev/redirect-netlify-deploy-preview-url/) <sub>February 23, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Build a Curriculum Outline Step 1 to 11 - freeCodeCamp Responsive Web Design Walkthrough V9](https://www.youtube.com/watch?v=Ertsaiqcfk4) <sub>February 25, 2026</sub>
 - [How to Disable Liquid Glass on iPad (iPadOS 26) – Reduce Transparency for Better Readability on iPad](https://www.youtube.com/watch?v=3BG6uVkgNsc) <sub>February 18, 2026</sub>
 - [Installing Visual Studio Community Edition 2015 in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=jiCI4KK7aWw) <sub>February 17, 2026</sub>
 - [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI) <sub>February 13, 2026</sub>
 - [Installing Visual Studio Community 2017 in 2026 and fixing startup error - Older Versions Download](https://www.youtube.com/watch?v=caHVWmJjHuE) <sub>February 12, 2026</sub>
-- [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4) <sub>February 11, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
