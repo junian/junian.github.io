@@ -28,6 +28,8 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Feb 28, 2026` [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/)
+- `Feb 28, 2026` [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/)
 - `Feb 27, 2026` [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.juniandev.com/dev/deploy-marp-to-github-pages/)
 - `Feb 26, 2026` [How to Generate Multiple Markdown Presentations to Pretty URL HTML with Marp and JavaScript](https://www.juniandev.com/dev/marp-generate-multiple-presentations/)
 - `Feb 26, 2026` [How to Take a macOS Window Screenshot Without the Shadow Background](https://www.junian.net/tech/macos-screenshot-without-shadow/)
@@ -114,7 +116,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Mar 10, 2025` [Git Pull 'Rebase in Progress' Issue](https://www.junian.net/dev/git-pull-rebase-in-progress/)
 - `Mar 09, 2025` [WinForms 32-bit 'Designer Could Not Be Shown' Issue](https://www.junian.net/dev/dotnet-winforms-32bit-designer-issue/)
 - `Feb 13, 2025` [Solving the Xamarin.Forms iOS 'Could Not Load the Framework IDEDistribution' Issue](https://www.junian.net/dev/xamarin-forms-ios-framework-idedistribution-issue/)
-- `Feb 13, 2025` [freeCodeCamp Responsive Web Design Learning Journey](https://www.junian.net/dev/learn-freecodecamp-responsive-web-design/)
+- `Feb 13, 2025` [freeCodeCamp Responsive Web Design Learning Journey (V8 / 2022 Curriculum)](https://www.junian.net/dev/learn-freecodecamp-responsive-web-design/)
 - `Jan 29, 2025` [Elevate Your Tech Business: Building a Powerful Social Media Presence with Adobe Express](https://www.junian.net/tech/building-a-powerful-social-media-presence-with-adobe-express/)
 - `Jan 03, 2025` [How I Accidentally Discovered Crypto-Miner Malware (perfctl) on an Ubuntu Server](https://www.junian.net/tech/ubuntu-perfctl-malware-mongodb-not-running/)
 - `Dec 23, 2024` [How to Use TP-Link Tether Without a TP-Link ID](https://www.junian.net/tech/tp-link-tether-without-tp-link-id/)
