@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Mar 01, 2026` [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/)
 - `Feb 28, 2026` [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/)
 - `Feb 28, 2026` [I Challenge Myself to Complete freeCodeCamp Responsive Web Design V9 Certification](https://www.junian.net/dev/freecodecamp-responsive-web-design-v9/)
 - `Feb 27, 2026` [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.juniandev.com/dev/deploy-marp-to-github-pages/)
@@ -42,7 +43,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Feb 22, 2026` [How to Install Disqus to Jekyll Static Site](https://www.juniandev.com/dev/jekyll-disqus/)
 - `Feb 21, 2026` [How to Activate IndexNow with Cloudflare](https://www.juniandev.com/dev/cloudflare-indexnow/)
 - `Feb 20, 2026` [Using CommentBox in Jekyll Site](https://www.juniandev.com/dev/jekyll-commentbox/)
-- `Feb 19, 2026` [Xcode Command Line Tools Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/)
+- `Feb 19, 2026` [Xcode Command Line Tools Download and Installation FAQ](https://www.junian.net/dev/xcode-command-line-tools-installation-faq/)
 - `Feb 19, 2026` [How to Integrate CommentBox to Your Hugo Site](https://www.juniandev.com/dev/hugo-commentbox/)
 - `Feb 18, 2026` [Apple Logo  Character Emoji Keyboard Shortcut](https://www.junian.net/tech/apple-logo-character-emoji-keyboard-shortcut/)
 - `Feb 17, 2026` [Fix Drag and Drop Issue in the Finder App on macOS](https://www.junian.net/tech/macos-fix-drag-and-drop/)
