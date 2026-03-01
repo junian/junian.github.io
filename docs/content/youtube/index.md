@@ -22,6 +22,8 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Mar 02, 2026` [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA)
+- `Mar 01, 2026` [Debug Camperbot's Profile Page - freeCodeCamp Responsive Web Design HTML Course](https://www.youtube.com/watch?v=qW-TlQ30mpo)
 - `Feb 27, 2026` [Build a Bookstore Page Step 1 to 19 - freeCodeCamp Responsive Web Design v9 Guide](https://www.youtube.com/watch?v=KW3QKPVxAqA)
 - `Feb 26, 2026` [Build a Cat Photo App Step 1 to 42 - freeCodeCamp Responsive Web Design Certification v9 Guide](https://www.youtube.com/watch?v=zwoYGmsDpW8)
 - `Feb 25, 2026` [Build a Curriculum Outline Step 1 to 11 - freeCodeCamp Responsive Web Design Walkthrough V9](https://www.youtube.com/watch?v=Ertsaiqcfk4)
@@ -35,8 +37,6 @@ Following are the latest 15 videos I've created.
 - `Feb 06, 2026` [Installing Visual Studio Community 2019 in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=vAIg4b6IyXI)
 - `Feb 05, 2026` [Turn off Dahua CCTV XVR NVR DVR Beeping / Buzzer Sound / No Disk Alarm Noise](https://www.youtube.com/watch?v=87to6eASaaI)
 - `Feb 04, 2026` [Convert HDR to SDR Video with HandBrake app - Remove HDR from a Video file](https://www.youtube.com/watch?v=na-r0koyz2s)
-- `Jan 22, 2026` [How to Reset your Mac to Factory Default / Erase All Content and Settings before Selling the Mac](https://www.youtube.com/watch?v=51MYNkzi1Cc)
-- `Jan 14, 2026` [How to Restore the missing Wi-Fi icon from Recovery Assistant of macOS](https://www.youtube.com/watch?v=oZvv6DI4cHI)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
