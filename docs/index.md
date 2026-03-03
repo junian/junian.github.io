@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Don't forget to Accept Xcode License for every update](https://www.juniandev.com/dev/xcode-accept-license/) <sub>March 04, 2026</sub>
 - [Simple <kbd> Css](https://www.juniandev.com/dev/simple-kbd-css/) <sub>March 03, 2026</sub>
 - [File Copy, Cut, and Paste Keyboard Shortcuts on Mac](https://www.junian.net/tech/mac-file-copy-cut-paste-keyboard-shortcuts/) <sub>March 03, 2026</sub>
 - [Embed YouTube Playlist in Hugo with Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/) <sub>March 02, 2026</sub>
 - [Setting Up Netlify Site with Cloudflare Proxy](https://www.juniandev.com/dev/netlify-with-cloudflare-proxy/) <sub>March 01, 2026</sub>
-- [Cloudflare Intermediate Certs](https://www.juniandev.com/dev/cloudflare-intermediate-certs/) <sub>February 28, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
 - [Build a Recipe Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=_EIwe5DnYdg) <sub>March 03, 2026</sub>
 - [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA) <sub>March 02, 2026</sub>
 - [Debug Camperbot's Profile Page - freeCodeCamp Responsive Web Design HTML Course](https://www.youtube.com/watch?v=qW-TlQ30mpo) <sub>March 01, 2026</sub>
 - [Build a Bookstore Page Step 1 to 19 - freeCodeCamp Responsive Web Design v9 Guide](https://www.youtube.com/watch?v=KW3QKPVxAqA) <sub>February 27, 2026</sub>
-- [Build a Cat Photo App Step 1 to 42 - freeCodeCamp Responsive Web Design Certification v9 Guide](https://www.youtube.com/watch?v=zwoYGmsDpW8) <sub>February 26, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }

@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Mar 04, 2026` [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY)
 - `Mar 03, 2026` [Build a Recipe Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=_EIwe5DnYdg)
 - `Mar 02, 2026` [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA)
 - `Mar 01, 2026` [Debug Camperbot's Profile Page - freeCodeCamp Responsive Web Design HTML Course](https://www.youtube.com/watch?v=qW-TlQ30mpo)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Feb 10, 2026` [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4)
 - `Feb 09, 2026` [How to mount External Drives to CasaOS on Mac](https://www.youtube.com/watch?v=6Q2TXT8aUFA)
 - `Feb 06, 2026` [Installing Visual Studio Community 2019 in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=vAIg4b6IyXI)
-- `Feb 05, 2026` [Turn off Dahua CCTV XVR NVR DVR Beeping / Buzzer Sound / No Disk Alarm Noise](https://www.youtube.com/watch?v=87to6eASaaI)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
