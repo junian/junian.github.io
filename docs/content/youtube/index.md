@@ -32,7 +32,7 @@ Following are the latest 15 videos I've created.
 - `Feb 18, 2026` [How to Disable Liquid Glass on iPad (iPadOS 26) – Reduce Transparency for Better Readability on iPad](https://www.youtube.com/watch?v=3BG6uVkgNsc)
 - `Feb 17, 2026` [Download and Install Visual Studio 2015 Community Edition in 2026 - Visual Studio Older Versions](https://www.youtube.com/watch?v=jiCI4KK7aWw)
 - `Feb 13, 2026` [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI)
-- `Feb 12, 2026` [Download + Install Visual Studio 2017 Community in 2026 and fixing startup error - VS Older Versions](https://www.youtube.com/watch?v=caHVWmJjHuE)
+- `Feb 12, 2026` [Download and Install Visual Studio 2017 Community in 2026 & Fixing Startup Error - VS Older Versions](https://www.youtube.com/watch?v=caHVWmJjHuE)
 - `Feb 11, 2026` [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4)
 - `Feb 10, 2026` [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4)
 - `Feb 09, 2026` [How to mount External Drives to CasaOS on Mac](https://www.youtube.com/watch?v=6Q2TXT8aUFA)
