@@ -10,9 +10,8 @@ search_exclude: true
 
 Sudoku Meets Knight Tour.
 
-<p>
-  <iframe class="youtube-iframe" src="https://www.youtube.com/embed/KyAaBvan1HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
+{% include embed/youtube.html id="KyAaBvan1HA" %}
+
 
 ## Description
 
