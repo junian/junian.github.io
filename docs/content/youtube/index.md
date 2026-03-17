@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Mar 17, 2026` [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A)
 - `Mar 04, 2026` [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY)
 - `Mar 03, 2026` [Build a Recipe Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=_EIwe5DnYdg)
 - `Mar 02, 2026` [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Feb 11, 2026` [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4)
 - `Feb 10, 2026` [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4)
 - `Feb 09, 2026` [How to mount External Drives to CasaOS on Mac](https://www.youtube.com/watch?v=6Q2TXT8aUFA)
-- `Feb 06, 2026` [Download and Install Visual Studio 2019 Community in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=vAIg4b6IyXI)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
