@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Start macOS Recovery and Connect to the Internet Without Wi-Fi](https://www.junian.net/tech/macos-recovery-internet-without-wifi/) <sub>March 20, 2026</sub>
+- [Fix Missing Wi-Fi in Recovery Assistant After Resetting Your Mac](https://www.junian.net/tech/macos-recovery-fix-missing-wifi/) <sub>March 19, 2026</sub>
 - [Install Mendeley Desktop for Mac with Homebrew](https://www.junian.net/tech/mendeley-desktop-mac-homebrew/) <sub>March 16, 2026</sub>
 - [Don't forget to Accept Xcode License for every update](https://www.juniandev.com/dev/xcode-accept-license/) <sub>March 04, 2026</sub>
 - [Simple <kbd> Css](https://www.juniandev.com/dev/simple-kbd-css/) <sub>March 03, 2026</sub>
-- [File Copy, Cut, and Paste Keyboard Shortcuts on Mac](https://www.junian.net/tech/mac-file-copy-cut-paste-keyboard-shortcuts/) <sub>March 03, 2026</sub>
-- [Embed YouTube Playlist in Hugo with Shortcode](https://www.juniandev.com/dev/hugo-youtube-playlist-shortcode/) <sub>March 02, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
