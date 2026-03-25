@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to Set an 80% Battery Charge Limit on MacBook without Third-Party App](https://www.junian.net/tech/macbook-battery-charge-limit/) <sub>March 25, 2026</sub>
 - [How to Start macOS Recovery and Connect to the Internet Without Wi-Fi](https://www.junian.net/tech/macos-recovery-internet-without-wifi/) <sub>March 20, 2026</sub>
 - [Fix Missing Wi-Fi in Recovery Assistant After Resetting Your Mac](https://www.junian.net/tech/macos-recovery-fix-missing-wifi/) <sub>March 19, 2026</sub>
 - [Install Mendeley Desktop for Mac with Homebrew](https://www.junian.net/tech/mendeley-desktop-mac-homebrew/) <sub>March 16, 2026</sub>
 - [Don't forget to Accept Xcode License for every update](https://www.juniandev.com/dev/xcode-accept-license/) <sub>March 04, 2026</sub>
-- [Simple <kbd> Css](https://www.juniandev.com/dev/simple-kbd-css/) <sub>March 03, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw) <sub>March 25, 2026</sub>
 - [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A) <sub>March 17, 2026</sub>
 - [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
 - [Build a Recipe Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=_EIwe5DnYdg) <sub>March 03, 2026</sub>
 - [Debug a Pet Adoption Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=BJ0lF9dqtsA) <sub>March 02, 2026</sub>
-- [Debug Camperbot's Profile Page - freeCodeCamp Responsive Web Design HTML Course](https://www.youtube.com/watch?v=qW-TlQ30mpo) <sub>March 01, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
