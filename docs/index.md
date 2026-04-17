@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Finding the Boundaries of Pre-Made Art in Healthcare SaaS Dashboards](https://www.junian.net/tech/finding-the-boundaries-of-pre-made-art-in-healthcare-saas-dashboards/) <sub>April 17, 2026</sub>
 - [How to Set an 80% Battery Charge Limit on MacBook without Third-Party App](https://www.junian.net/tech/macbook-battery-charge-limit/) <sub>March 25, 2026</sub>
 - [How to Start macOS Recovery and Connect to the Internet Without Wi-Fi](https://www.junian.net/tech/macos-recovery-internet-without-wifi/) <sub>March 20, 2026</sub>
 - [Fix Missing Wi-Fi in Recovery Assistant After Resetting Your Mac](https://www.junian.net/tech/macos-recovery-fix-missing-wifi/) <sub>March 19, 2026</sub>
 - [Install Mendeley Desktop for Mac with Homebrew](https://www.junian.net/tech/mendeley-desktop-mac-homebrew/) <sub>March 16, 2026</sub>
-- [Don't forget to Accept Xcode License for every update](https://www.juniandev.com/dev/xcode-accept-license/) <sub>March 04, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }

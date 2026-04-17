@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Apr 17, 2026` [Finding the Boundaries of Pre-Made Art in Healthcare SaaS Dashboards](https://www.junian.net/tech/finding-the-boundaries-of-pre-made-art-in-healthcare-saas-dashboards/)
 - `Mar 25, 2026` [How to Set an 80% Battery Charge Limit on MacBook without Third-Party App](https://www.junian.net/tech/macbook-battery-charge-limit/)
 - `Mar 20, 2026` [How to Start macOS Recovery and Connect to the Internet Without Wi-Fi](https://www.junian.net/tech/macos-recovery-internet-without-wifi/)
 - `Mar 19, 2026` [Fix Missing Wi-Fi in Recovery Assistant After Resetting Your Mac](https://www.junian.net/tech/macos-recovery-fix-missing-wifi/)
