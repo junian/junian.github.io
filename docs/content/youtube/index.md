@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Apr 22, 2026` [Download and Install Visual Studio 2013 Community in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=7JPRpcBX0yA)
 - `Mar 25, 2026` [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw)
 - `Mar 17, 2026` [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A)
 - `Mar 04, 2026` [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Feb 13, 2026` [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI)
 - `Feb 12, 2026` [Download and Install Visual Studio 2017 Community in 2026 & Fixing Startup Error - VS Older Versions](https://www.youtube.com/watch?v=caHVWmJjHuE)
 - `Feb 11, 2026` [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4)
-- `Feb 10, 2026` [How to Disable Liquid Glass on iPhone with iOS 26 - Reduce Transparency of any iPhone](https://www.youtube.com/watch?v=ug3EtEy4CF4)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
