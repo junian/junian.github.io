@@ -65,7 +65,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Feb 10, 2026` [How to Disable Liquid Glass Transparency on iPhone (iOS 26)](https://www.junian.net/tech/ios-disable-liquid-glass/)
 - `Feb 09, 2026` [CasaOS on macOS with External Drives](https://www.junian.net/tech/casaos-on-macos-with-external-drives/)
 - `Feb 08, 2026` [Installing Visual Studio 2019 Community Edition (Step by Step)](https://www.junian.net/dev/install-visual-studio-2019/)
-- `Feb 07, 2026` [Fixing Mendeley Desktop Citation Plugin for Microsoft Word on macOS](https://www.junian.net/tech/macos-mendeley-desktop-microsoft-word-plugin/)
+- `Feb 07, 2026` [Download and Fix Mendeley Desktop Citation Plugin for Microsoft Word on macOS](https://www.junian.net/tech/macos-mendeley-desktop-microsoft-word-plugin/)
 - `Feb 06, 2026` [How to Create an Empty Orphan Git Branch](https://www.junian.net/dev/git-create-orphan-branch/)
 - `Feb 05, 2026` [Turn Off Dahua CCTV NVR or DVR/XVR Beeping Noise](https://www.junian.net/tech/dahua-cctv-nvr-dvr-xvr-beeping-noise/)
 - `Feb 04, 2026` [How to Convert HDR Video to SDR Using HandBrake](https://www.junian.net/tech/handbrake-hdr-to-sdr-video/)
