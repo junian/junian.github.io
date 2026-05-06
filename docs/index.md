@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Finding the Boundaries of Pre-Made Art in Healthcare SaaS Dashboards](https://www.junian.net/tech/finding-the-boundaries-of-pre-made-art-in-healthcare-saas-dashboards/) <sub>April 17, 2026</sub>
-- [How to Set an 80% Battery Charge Limit on MacBook without Third-Party App](https://www.junian.net/tech/macbook-battery-charge-limit/) <sub>March 25, 2026</sub>
-- [How to Start macOS Recovery and Connect to the Internet Without Wi-Fi](https://www.junian.net/tech/macos-recovery-internet-without-wifi/) <sub>March 20, 2026</sub>
-- [Fix Missing Wi-Fi in Recovery Assistant After Resetting Your Mac](https://www.junian.net/tech/macos-recovery-fix-missing-wifi/) <sub>March 19, 2026</sub>
-- [Install Mendeley Desktop for Mac with Homebrew](https://www.junian.net/tech/mendeley-desktop-mac-homebrew/) <sub>March 16, 2026</sub>
+- [Idea](https://www.junian.dev/ideas/) <sub>May 05, 2026</sub>
+- [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/) <sub>May 05, 2026</sub>
+- [Now](https://www.junian.dev/now/) <sub>May 05, 2026</sub>
+- [What I Use](https://www.junian.dev/uses/) <sub>May 05, 2026</sub>
+- [Cloudflare Intermediate Certs](https://www.junian.dev/dev/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
