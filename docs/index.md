@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Idea](https://www.junian.dev/ideas/) <sub>May 05, 2026</sub>
-- [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/) <sub>May 05, 2026</sub>
-- [Now](https://www.junian.dev/now/) <sub>May 05, 2026</sub>
-- [What I Use](https://www.junian.dev/uses/) <sub>May 05, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.junian.dev/dev/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
+- [Cloudflare Intermediate Certs](https://www.junian.dev/dev/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
+- [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/dev/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
+- [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/dev/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
+- [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/dev/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,7 +88,7 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
-- [Download and Install Visual Studio 2013 Community in 2026 - Visual Studio Older Versions Download](https://www.youtube.com/watch?v=7JPRpcBX0yA) <sub>April 22, 2026</sub>
+- [How to Download and Install Visual Studio 2013 Community in 2026 - Old Visual Studio Versions](https://www.youtube.com/watch?v=7JPRpcBX0yA) <sub>April 22, 2026</sub>
 - [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw) <sub>March 25, 2026</sub>
 - [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A) <sub>March 17, 2026</sub>
 - [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
