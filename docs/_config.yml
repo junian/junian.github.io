@@ -104,7 +104,7 @@ nav_sort: case_insensitive # Capital letters sorted before lowercase
 # External navigation links
 nav_external_links:
   - title: Tech Blog
-    url: https://www.junian.net/
+    url: https://www.junian.dev/
   - title: YouTube
     url: https://www.youtube.com/@JunianDev
   - title: GitHub
