@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Cloudflare Intermediate Certs](https://www.junian.dev/dev/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
-- [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/dev/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
-- [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/dev/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
-- [Generate Multiple Pretty URL Presentations with Marp and JavaScript](https://www.junian.dev/dev/marp-generate-multiple-presentations/) <sub>April 27, 2026</sub>
-- [Setting Up Netlify Site with Cloudflare Proxy](https://www.junian.dev/dev/netlify-with-cloudflare-proxy/) <sub>April 25, 2026</sub>
+- [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
+- [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
+- [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/tech/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
+- [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/tech/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
+- [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/tech/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
