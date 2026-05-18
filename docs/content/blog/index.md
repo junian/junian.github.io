@@ -21,7 +21,7 @@ I used it because it's free.
 I write so many topics, but mostly is about tech.
 
 I even won 4th place of a Blogging competition back in 2011.
-One of the prizes was a voucher to buy a domain, so I purchased [junian.net](https://www.junian.net/) and still use it until today.
+One of the prizes was a voucher to buy a domain, so I purchased [junian.net](https://www.junian.net/) (now migrated to [junian.dev]) and still use it until today.
 
 ## Posts
 
@@ -397,3 +397,5 @@ Following section is list of articles or posts I've wrote ordered by published d
 <!-- feed end -->
 
 [**See more**](/blog/){: .btn .btn-blue }
+
+[junian.dev]: <https://www.junian.dev> "Junian Dev Official Website"
