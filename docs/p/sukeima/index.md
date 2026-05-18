@@ -4,6 +4,7 @@ description: Easily generate Sudoku-like Puzzle levels
 layout: portfolio
 nav_exclude: true
 search_exclude: true
+sitemap: false
 ---
 
 ## SUKEIMA Puzzle Creator
