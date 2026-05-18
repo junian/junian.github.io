@@ -3,6 +3,7 @@ title: WooCommerce Product Sync and Automation
 layout: portfolio
 nav_exclude: true
 search_exclude: true
+sitemap: false
 ---
 
 ## WooCommerce Product Sync and Automation
