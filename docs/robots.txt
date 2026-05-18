@@ -31,6 +31,7 @@ sitemap: false
 User-Agent: *
 # Content-Signal: ai-train=no, search=yes, ai-input=no
 Allow: /
+Disallow: /p/
 Disallow: /resume
 
 Sitemap: {{ "sitemap.xml" | absolute_url }}
