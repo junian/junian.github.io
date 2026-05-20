@@ -34,7 +34,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Apr 28, 2026` [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/tech/hugo-youtube-playlist-shortcode/)
 - `Apr 27, 2026` [Generate Multiple Pretty URL Presentations with Marp and JavaScript](https://www.junian.dev/tech/marp-generate-multiple-presentations/)
 - `Apr 25, 2026` [Setting Up Netlify Site with Cloudflare Proxy](https://www.junian.dev/tech/netlify-with-cloudflare-proxy/)
-- `Apr 24, 2026` [Simple <kbd> Css](https://www.junian.dev/tech/simple-kbd-css/)
+- `Apr 24, 2026` [Simple CSS for "kbd" HTML Tag](https://www.junian.dev/tech/simple-kbd-css/)
 - `Apr 23, 2026` [Don't forget to Accept Xcode License for every update](https://www.junian.dev/tech/xcode-accept-license/)
 - `Apr 22, 2026` [How to Check if Content Is Draft or a Future Post in a Hugo Template](https://www.junian.dev/tech/hugo-check-content-draft-future/)
 - `Apr 21, 2026` [How to Activate IndexNow with Cloudflare](https://www.junian.dev/tech/cloudflare-indexnow/)
