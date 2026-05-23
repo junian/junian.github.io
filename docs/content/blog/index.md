@@ -28,6 +28,8 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `May 23, 2026` [You Should Add Slash Pages to Your Personal Website or Blog](https://www.junian.dev/blog/slash-pages/)
+- `May 22, 2026` [How to Install Antigravity IDE Back, the VSCode Fork Version](https://www.junian.dev/tech/antigravity-ide/)
 - `May 05, 2026` [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/)
 - `Apr 30, 2026` [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/)
 - `Apr 29, 2026` [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/tech/deploy-marp-to-github-pages/)

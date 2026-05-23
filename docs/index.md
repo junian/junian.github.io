@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [You Should Add Slash Pages to Your Personal Website or Blog](https://www.junian.dev/blog/slash-pages/) <sub>May 23, 2026</sub>
+- [How to Install Antigravity IDE Back, the VSCode Fork Version](https://www.junian.dev/tech/antigravity-ide/) <sub>May 22, 2026</sub>
 - [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/) <sub>May 05, 2026</sub>
 - [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
 - [Deploy Marp Markdown Presentations to GitHub Pages with GitHub Actions](https://www.junian.dev/tech/deploy-marp-to-github-pages/) <sub>April 29, 2026</sub>
-- [Embed YouTube Playlist in Hugo with Shortcode](https://www.junian.dev/tech/hugo-youtube-playlist-shortcode/) <sub>April 28, 2026</sub>
-- [Generate Multiple Pretty URL Presentations with Marp and JavaScript](https://www.junian.dev/tech/marp-generate-multiple-presentations/) <sub>April 27, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
