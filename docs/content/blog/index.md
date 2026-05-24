@@ -133,7 +133,6 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Sep 04, 2025` [Local Area Network (LAN) Bandwidth Speed Test](https://www.junian.dev/tech/local-area-network-bandwidth-speed-test/)
 - `Sep 03, 2025` [Great Dev Resume Examples](https://www.junian.dev/blog/great-dev-resume-examples/)
 - `Sep 02, 2025` [FiberHome GPON ONU Router or Modem Default Admin Password](https://www.junian.dev/tech/fiberhome-gpon-onu-router-admin-password/)
-- `Sep 01, 2025` [Great Technical Blog List](https://www.junian.dev/blog/great-technical-blog-list/)
 - `Jul 31, 2025` [Free Courses with Credly Badges](https://www.junian.dev/tech/free-credly-badges/)
 - `Jul 27, 2025` [Welcoming LLM AI to My Site](https://www.junian.dev/blog/welcoming-llm-ai-to-my-site/)
 - `Mar 10, 2025` [Git Pull 'Rebase in Progress' Issue](https://www.junian.dev/tech/git-pull-rebase-in-progress/)
