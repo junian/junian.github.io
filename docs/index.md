@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Cemu 2.6 Security Check: Is Your Steam Deck Affected?](https://www.junian.dev/tech/cemu-security-check/) <sub>May 30, 2026</sub>
 - [April 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-04-monthly-report/) <sub>May 25, 2026</sub>
 - [You Should Add Slash Pages to Your Personal Website or Blog](https://www.junian.dev/blog/slash-pages/) <sub>May 23, 2026</sub>
 - [How to Install Antigravity IDE Back, the VSCode Fork Version](https://www.junian.dev/tech/antigravity-ide/) <sub>May 22, 2026</sub>
 - [junian.net is now junian.dev](https://www.junian.dev/blog/dotnet-to-dotdev-domain-migration/) <sub>May 05, 2026</sub>
-- [Cloudflare Intermediate Certs](https://www.junian.dev/tech/cloudflare-intermediate-certs/) <sub>April 30, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }

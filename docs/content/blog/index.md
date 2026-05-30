@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `May 30, 2026` [Cemu 2.6 Security Check: Is Your Steam Deck Affected?](https://www.junian.dev/tech/cemu-security-check/)
 - `May 25, 2026` [April 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-04-monthly-report/)
 - `May 23, 2026` [You Should Add Slash Pages to Your Personal Website or Blog](https://www.junian.dev/blog/slash-pages/)
 - `May 22, 2026` [How to Install Antigravity IDE Back, the VSCode Fork Version](https://www.junian.dev/tech/antigravity-ide/)
