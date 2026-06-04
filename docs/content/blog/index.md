@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Jun 04, 2026` [ChatGPT AI Prompt to Proofread Your Blog Post](https://www.junian.dev/tech/ai-prompt-blog-post-proofread/)
 - `Jun 03, 2026` [5 Free US Phone Numbers to Make a Test Call with Google Voice](https://www.junian.dev/tech/usa-phone-numbers-test-call/)
 - `Jun 02, 2026` [May 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-05-monthly-report/)
 - `May 30, 2026` [Cemu 2.6 Security Check: Is Your Steam Deck Affected?](https://www.junian.dev/tech/cemu-security-check/)
