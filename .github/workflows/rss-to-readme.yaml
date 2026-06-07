@@ -23,9 +23,7 @@ jobs:
         id: blog-feed
         with:
           url: |
-            https://www.junian.dev/tech/index.xml
-            https://www.junian.dev/blog/index.xml
-            https://www.junian.dev/downloads/index.xml
+            https://www.junian.dev/index.xml
           file: 'docs/index.md'
           format: '- [${title}](${url}) <sub>${monthlong} ${02day}, ${year}</sub>'
           timezone: 'Asia/Jakarta'
@@ -37,9 +35,7 @@ jobs:
         id: blog-feed-all
         with:
           url: |
-            https://www.junian.dev/tech/index.xml
-            https://www.junian.dev/blog/index.xml
-            https://www.junian.dev/downloads/index.xml
+            https://www.junian.dev/index.xml
           file: 'docs/content/blog/index.md'
           format: '- `${monthshort} ${02day}, ${year}` [${title}](${url})'
           timezone: 'Asia/Jakarta'
