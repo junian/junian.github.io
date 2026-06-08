@@ -28,6 +28,8 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Jun 08, 2026` [Windows App (MS Remote Desktop) for macOS Download Links](https://www.junian.dev/downloads/windows-app-for-mac/)
+- `Jun 08, 2026` [Xcode for Mac Downloads Grouped by macOS Version](https://www.junian.dev/downloads/xcode/)
 - `Jun 06, 2026` [Download Microsoft Visual C++ Redistributable Installers](https://www.junian.dev/downloads/vc-redist/)
 - `Jun 05, 2026` [Download and Install Visual Studio 2013 Community Edition](https://www.junian.dev/tech/install-visual-studio-2013/)
 - `Jun 04, 2026` [ChatGPT AI Prompt to Proofread Your Blog Post](https://www.junian.dev/tech/ai-prompt-blog-post-proofread/)
@@ -128,16 +130,15 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Dec 06, 2025` [Disable or Enable Hibernation on Windows](https://www.junian.dev/tech/windows-disable-or-enable-hibernate/)
 - `Dec 05, 2025` [Robots.txt to Limit LLM AI for Search Only using Content Signal](https://www.junian.dev/tech/robots-txt-search-only-llm-ai-gpt/)
 - `Dec 03, 2025` [Installing Multiple .NET Versions on macOS with Homebrew](https://www.junian.dev/tech/install-multiple-dotnet-macos-homebrew/)
-- `Dec 02, 2025` [Microsoft Office for Mac Older Download Links](https://www.junian.dev/tech/microsoft-office-for-mac-download-links/)
+- `Dec 02, 2025` [Microsoft Office for Mac Older Download Links](https://www.junian.dev/downloads/office-for-mac/)
 - `Dec 01, 2025` [Managing macOS System Extensions From the Terminal](https://www.junian.dev/tech/macos-system-extension-management/)
 - `Nov 27, 2025` [Using a Closed MacBook with an External Monitor (Clamshell Mode)](https://www.junian.dev/tech/macbook-clamshell-mode/)
 - `Nov 24, 2025` [macOS Screen Mirror Keyboard Shortcut](https://www.junian.dev/tech/macos-screen-mirror-keyboard-shortcut/)
-- `Nov 22, 2025` [Windows App (MS Remote Desktop) for macOS Download Links](https://www.junian.dev/tech/macos-microsoft-windows-app-downloads/)
 - `Nov 22, 2025` [Microsoft SQL Server Developer Downloads - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-developer/)
 - `Nov 21, 2025` [Microsoft SQL Server Express Downloads - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-express/)
 - `Nov 21, 2025` [Visual Studio Professional Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.dev/downloads/visual-studio-professional/)
 - `Nov 21, 2025` [Visual Studio Enterprise Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.dev/downloads/visual-studio-enterprise/)
-- `Nov 19, 2025` [Microsoft Remote Desktop Client App for Older macOS Versions](https://www.junian.dev/tech/macos-microsoft-remote-desktop-client-app/)
+- `Nov 19, 2025` [Download Microsoft Remote Desktop Client App for macOS](https://www.junian.dev/downloads/remote-desktop-client-for-mac/)
 - `Nov 12, 2025` [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015, 2013](https://www.junian.dev/downloads/visual-studio-community/)
 - `Nov 12, 2025` [SQL Server Management Studio - All Versions Download](https://www.junian.dev/downloads/ssms/)
 - `Nov 04, 2025` [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.dev/tech/microsoft-sql-server-apple-silicon-mac/)
