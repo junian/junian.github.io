@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Jun 10, 2026` [Download and Install Visual Studio 2015 Community Edition](https://www.junian.dev/tech/install-visual-studio-2015/)
 - `Jun 09, 2026` [How to fix Docker exec: Entrypoint: Permission Denied: Unknown](https://www.junian.dev/tech/docker-exec-entrypoint-sh-permission-denied/)
 - `Jun 08, 2026` [Windows App (MS Remote Desktop) for macOS Download Links](https://www.junian.dev/downloads/windows-app-for-mac/)
 - `Jun 08, 2026` [Xcode for Mac Downloads Grouped by macOS Version](https://www.junian.dev/downloads/xcode/)
