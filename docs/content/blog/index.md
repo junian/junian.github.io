@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Jun 15, 2026` [Build Hugo Static Site Using Hugo via Node Package Manager (NPM)](https://www.junian.dev/tech/hugo-npm/)
 - `Jun 13, 2026` [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/)
 - `Jun 13, 2026` [Microsoft SQL Server Express All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-express/)
 - `Jun 12, 2026` [Microsoft SQL Server Developer All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-developer/)
@@ -36,7 +37,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Jun 10, 2026` [Download and Install Visual Studio 2015 Community Edition](https://www.junian.dev/tech/install-visual-studio-2015/)
 - `Jun 09, 2026` [How to fix Docker exec: Entrypoint: Permission Denied: Unknown](https://www.junian.dev/tech/docker-exec-entrypoint-sh-permission-denied/)
 - `Jun 08, 2026` [Download Windows App for Mac (New MS Remote Desktop)](https://www.junian.dev/downloads/windows-app-for-mac/)
-- `Jun 08, 2026` [Xcode for Mac Downloads Grouped by macOS Version](https://www.junian.dev/downloads/xcode/)
+- `Jun 08, 2026` [Xcode for Older Mac - All Versions Direct Download](https://www.junian.dev/downloads/xcode/)
 - `Jun 06, 2026` [Microsoft Visual C++ Redistributable All Versions Download (2026)](https://www.junian.dev/downloads/vc-redist/)
 - `Jun 05, 2026` [Download and Install Visual Studio 2013 Community Edition](https://www.junian.dev/tech/install-visual-studio-2013/)
 - `Jun 04, 2026` [ChatGPT AI Prompt to Proofread Your Blog Post](https://www.junian.dev/tech/ai-prompt-blog-post-proofread/)
