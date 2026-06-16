@@ -76,7 +76,7 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Build Hugo Static Site Using Hugo via Node Package Manager (NPM)](https://www.junian.dev/tech/hugo-npm/) <sub>June 15, 2026</sub>
+- [Build Hugo Static Site using Hugo via Node Package Manager (NPM)](https://www.junian.dev/tech/hugo-npm/) <sub>June 15, 2026</sub>
 - [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/) <sub>June 13, 2026</sub>
 - [Microsoft SQL Server Express All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-express/) <sub>June 13, 2026</sub>
 - [Microsoft SQL Server Developer All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-developer/) <sub>June 12, 2026</sub>
