@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Jul 03, 2026` [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/)
 - `Jun 16, 2026` [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/tech/winget-source-error/)
 - `Jun 15, 2026` [Build Hugo Static Site using Hugo via Node Package Manager (NPM)](https://www.junian.dev/tech/hugo-npm/)
 - `Jun 13, 2026` [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/)
