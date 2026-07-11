@@ -30,7 +30,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 <!-- feed start -->
 - `Jul 03, 2026` [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/)
 - `Jun 16, 2026` [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/tech/winget-source-error/)
-- `Jun 15, 2026` [Build Hugo Static Site using Hugo via Node Package Manager (NPM)](https://www.junian.dev/tech/hugo-npm/)
+- `Jun 15, 2026` [Use Hugo via Node Package Manager (NPM) to Build Static Site](https://www.junian.dev/tech/hugo-npm/)
 - `Jun 13, 2026` [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/)
 - `Jun 13, 2026` [Microsoft SQL Server Express All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-express/)
 - `Jun 12, 2026` [Microsoft SQL Server Developer All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-developer/)
@@ -144,7 +144,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Dec 01, 2025` [Managing macOS System Extensions From the Terminal](https://www.junian.dev/tech/macos-system-extension-management/)
 - `Nov 27, 2025` [Using a Closed MacBook with an External Monitor (Clamshell Mode)](https://www.junian.dev/tech/macbook-clamshell-mode/)
 - `Nov 24, 2025` [macOS Screen Mirror Keyboard Shortcut](https://www.junian.dev/tech/macos-screen-mirror-keyboard-shortcut/)
-- `Nov 21, 2025` [Visual Studio Professional Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.dev/downloads/visual-studio-professional/)
+- `Nov 21, 2025` [Visual Studio Professional Downloads - 2026, 2022, 2019, 2017, 2015, 2013](https://www.junian.dev/downloads/visual-studio-professional/)
 - `Nov 21, 2025` [Visual Studio Enterprise Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.dev/downloads/visual-studio-enterprise/)
 - `Nov 19, 2025` [Download Microsoft Remote Desktop for Mac](https://www.junian.dev/downloads/remote-desktop-client-for-mac/)
 - `Nov 12, 2025` [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015, 2013](https://www.junian.dev/downloads/visual-studio-community/)
