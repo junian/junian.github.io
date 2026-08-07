@@ -29,7 +29,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 
 <!-- feed start -->
 - `Jul 30, 2026` [UpSparkle - Native Updater for .NET Desktop Apps](https://www.junian.dev/upsparkle/)
-- `Jul 28, 2026` [libMacSparkle](https://www.junian.dev/libmacsparkle/)
+- `Jul 28, 2026` [libMacSparkle: unofficial dynamic library of Sparkle updater](https://www.junian.dev/libmacsparkle/)
 - `Jul 03, 2026` [June 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-06-monthly-report/)
 - `Jun 16, 2026` [Winget Source Error: 'msstore server certificate did not match'](https://www.junian.dev/tech/winget-source-error/)
 - `Jun 15, 2026` [Use Hugo via Node Package Manager (NPM) to Build Static Site](https://www.junian.dev/tech/hugo-npm/)
