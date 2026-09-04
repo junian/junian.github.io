@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/) <sub>September 05, 2026</sub>
 - [Fixing Firefox Full Screen Video on Steam Deck's Gaming Mode](https://www.junian.dev/blog/steam-deck-firefox-full-screen-video-gaming-mode/) <sub>September 04, 2026</sub>
 - [All OneDrive Versions for Mac](https://www.junian.dev/downloads/all-onedrive-versions-mac/) <sub>September 03, 2026</sub>
 - [Microsoft Teams for Mac Older Download Links](https://www.junian.dev/downloads/teams-for-mac/) <sub>September 02, 2026</sub>
 - [Microsoft OneDrive for Mac Older Download Links](https://www.junian.dev/downloads/onedrive-for-mac/) <sub>September 01, 2026</sub>
-- [July 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-07-monthly-report/) <sub>August 28, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }

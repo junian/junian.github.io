@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Sep 05, 2026` [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/)
 - `Sep 04, 2026` [Fixing Firefox Full Screen Video on Steam Deck's Gaming Mode](https://www.junian.dev/blog/steam-deck-firefox-full-screen-video-gaming-mode/)
 - `Sep 03, 2026` [All OneDrive Versions for Mac](https://www.junian.dev/downloads/all-onedrive-versions-mac/)
 - `Sep 02, 2026` [Microsoft Teams for Mac Older Download Links](https://www.junian.dev/downloads/teams-for-mac/)
