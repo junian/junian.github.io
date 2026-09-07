@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/) <sub>September 08, 2026</sub>
+- [Disable Parallels Desktop Update or Promo Pop-Up Window](https://www.junian.dev/blog/disable-parallels-desktop-update-pop-up/) <sub>September 07, 2026</sub>
 - [All Windows App / MS Remote Desktop Client Versions for Mac](https://www.junian.dev/downloads/all-windows-app-remote-desktop-versions-mac/) <sub>September 06, 2026</sub>
 - [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/) <sub>September 05, 2026</sub>
 - [Fixing Firefox Full Screen Video on Steam Deck's Gaming Mode](https://www.junian.dev/blog/steam-deck-firefox-full-screen-video-gaming-mode/) <sub>September 04, 2026</sub>
-- [All OneDrive Versions for Mac](https://www.junian.dev/downloads/all-onedrive-versions-mac/) <sub>September 03, 2026</sub>
-- [Microsoft Teams for Mac Older Download Links](https://www.junian.dev/downloads/teams-for-mac/) <sub>September 02, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }

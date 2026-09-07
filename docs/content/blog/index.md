@@ -28,6 +28,8 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Sep 08, 2026` [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/)
+- `Sep 07, 2026` [Disable Parallels Desktop Update or Promo Pop-Up Window](https://www.junian.dev/blog/disable-parallels-desktop-update-pop-up/)
 - `Sep 06, 2026` [All Windows App / MS Remote Desktop Client Versions for Mac](https://www.junian.dev/downloads/all-windows-app-remote-desktop-versions-mac/)
 - `Sep 05, 2026` [Better Way to Install Emscripten on Mac](https://www.junian.dev/blog/install-emscripten-mac/)
 - `Sep 04, 2026` [Fixing Firefox Full Screen Video on Steam Deck's Gaming Mode](https://www.junian.dev/blog/steam-deck-firefox-full-screen-video-gaming-mode/)
