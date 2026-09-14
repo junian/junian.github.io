@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [I bought a new $300-ish Laptop in 2026 RAMmageddon - SPC Style 5 Vibe Reviews](https://www.junian.dev/blog/2026-rammageddon-new-basic-laptop/) <sub>September 12, 2026</sub>
+- [ZTE GPON ONU Router Administrator Password](https://www.junian.dev/blog/zte-gpon-onu-admin-password/) <sub>September 11, 2026</sub>
 - [Stopping OpenAI ChatGPT from using your data for AI training](https://www.junian.dev/blog/openai-chatgpt-disable-data-train/) <sub>September 10, 2026</sub>
 - [How to Uninstall a Flatpak App and Its Data (Full Uninstall)](https://www.junian.dev/blog/flatpak-full-uninstall-app-and-data/) <sub>September 09, 2026</sub>
 - [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/) <sub>September 08, 2026</sub>
-- [Disable Parallels Desktop Update or Promo Pop-Up Window](https://www.junian.dev/blog/disable-parallels-desktop-update-pop-up/) <sub>September 07, 2026</sub>
-- [All Windows App / MS Remote Desktop Client Versions for Mac](https://www.junian.dev/downloads/all-windows-app-remote-desktop-versions-mac/) <sub>September 06, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }

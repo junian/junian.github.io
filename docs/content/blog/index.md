@@ -28,6 +28,8 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Sep 12, 2026` [I bought a new $300-ish Laptop in 2026 RAMmageddon - SPC Style 5 Vibe Reviews](https://www.junian.dev/blog/2026-rammageddon-new-basic-laptop/)
+- `Sep 11, 2026` [ZTE GPON ONU Router Administrator Password](https://www.junian.dev/blog/zte-gpon-onu-admin-password/)
 - `Sep 10, 2026` [Stopping OpenAI ChatGPT from using your data for AI training](https://www.junian.dev/blog/openai-chatgpt-disable-data-train/)
 - `Sep 09, 2026` [How to Uninstall a Flatpak App and Its Data (Full Uninstall)](https://www.junian.dev/blog/flatpak-full-uninstall-app-and-data/)
 - `Sep 08, 2026` [Disable Parallels Desktop .lnk Pop-Up Dialog](https://www.junian.dev/blog/disable-parallels-desktop-lnk-pop-up/)
