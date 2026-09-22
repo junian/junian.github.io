@@ -28,6 +28,8 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Sep 22, 2026` [Fixing Git Checkout Invalid Path Error on Windows](https://www.junian.dev/blog/git-error-invalid-path/)
+- `Sep 21, 2026` [Fixing ADB Failed to Connect Android Device Wirelessly](https://www.junian.dev/blog/adb-failed-to-connect/)
 - `Sep 20, 2026` [Using Touch ID for sudo on Mac](https://www.junian.dev/blog/mac-sudo-touch-id/)
 - `Sep 19, 2026` [Download Google Chrome for Older Legacy Mac](https://www.junian.dev/downloads/google-chrome-for-mac/)
 - `Sep 18, 2026` [August 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-08-monthly-report/)
