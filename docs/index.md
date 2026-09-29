@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/) <sub>September 29, 2026</sub>
 - [Visual Studio Code for Mac Older Download Links](https://www.junian.dev/downloads/vscode-for-mac/) <sub>September 28, 2026</sub>
 - [All Visual Studio Code Versions for Mac](https://www.junian.dev/downloads/all-visual-studio-code-versions-mac/) <sub>September 27, 2026</sub>
 - [Installing Latest Go Programming Language on Linux](https://www.junian.dev/blog/latest-go-installation/) <sub>September 26, 2026</sub>
 - [Removing Hidden User 'nx' from macOS](https://www.junian.dev/blog/macos-hidden-users/) <sub>September 25, 2026</sub>
-- [All Microsoft Teams Versions for Mac](https://www.junian.dev/downloads/all-microsoft-teams-versions-mac/) <sub>September 24, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }

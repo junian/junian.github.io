@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Sep 29, 2026` [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/)
 - `Sep 28, 2026` [Visual Studio Code for Mac Older Download Links](https://www.junian.dev/downloads/vscode-for-mac/)
 - `Sep 27, 2026` [All Visual Studio Code Versions for Mac](https://www.junian.dev/downloads/all-visual-studio-code-versions-mac/)
 - `Sep 26, 2026` [Installing Latest Go Programming Language on Linux](https://www.junian.dev/blog/latest-go-installation/)
