@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Sep 30, 2026` [Using macOS Touch ID for sudo! No more password typing!](https://www.youtube.com/watch?v=Q9KJcovMX_4)
 - `Apr 22, 2026` [How to Download and Install Visual Studio 2013 Community in 2026 - Old Visual Studio Versions](https://www.youtube.com/watch?v=7JPRpcBX0yA)
 - `Mar 25, 2026` [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw)
 - `Mar 17, 2026` [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Feb 17, 2026` [How to Download and Install Visual Studio 2015 Community Edition in 2026 - Old Visual Studio Version](https://www.youtube.com/watch?v=jiCI4KK7aWw)
 - `Feb 13, 2026` [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI)
 - `Feb 12, 2026` [How to Download and Install Visual Studio 2017 Community in 2026 and Fixing Startup Error](https://www.youtube.com/watch?v=caHVWmJjHuE)
-- `Feb 11, 2026` [FiberHome HG6145F1 Admin Password - GPON ONU Router / Modem Default Admin Password](https://www.youtube.com/watch?v=yXLriGOsXp4)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }

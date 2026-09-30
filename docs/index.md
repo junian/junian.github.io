@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Changing Default Cloudflare Node.js Version](https://www.junian.dev/blog/change-cloudflare-node-version/) <sub>September 30, 2026</sub>
 - [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/) <sub>September 29, 2026</sub>
 - [Visual Studio Code for Mac Older Download Links](https://www.junian.dev/downloads/vscode-for-mac/) <sub>September 28, 2026</sub>
 - [All Visual Studio Code Versions for Mac](https://www.junian.dev/downloads/all-visual-studio-code-versions-mac/) <sub>September 27, 2026</sub>
 - [Installing Latest Go Programming Language on Linux](https://www.junian.dev/blog/latest-go-installation/) <sub>September 26, 2026</sub>
-- [Removing Hidden User 'nx' from macOS](https://www.junian.dev/blog/macos-hidden-users/) <sub>September 25, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
+- [Using macOS Touch ID for sudo! No more password typing!](https://www.youtube.com/watch?v=Q9KJcovMX_4) <sub>September 30, 2026</sub>
 - [How to Download and Install Visual Studio 2013 Community in 2026 - Old Visual Studio Versions](https://www.youtube.com/watch?v=7JPRpcBX0yA) <sub>April 22, 2026</sub>
 - [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw) <sub>March 25, 2026</sub>
 - [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A) <sub>March 17, 2026</sub>
 - [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
-- [Build a Recipe Page - freeCodeCamp Responsive Web Design HTML Guide](https://www.youtube.com/watch?v=_EIwe5DnYdg) <sub>March 03, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }
