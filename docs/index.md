@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Formatting SSD or HDD on Windows 11](https://www.junian.dev/blog/windows-format-ssd-hdd/) <sub>October 02, 2026</sub>
 - [All Firefox Versions for Mac](https://www.junian.dev/downloads/all-firefox-versions-mac/) <sub>October 01, 2026</sub>
 - [Changing Default Cloudflare Node.js Version](https://www.junian.dev/blog/change-cloudflare-node-version/) <sub>September 30, 2026</sub>
 - [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/) <sub>September 29, 2026</sub>
 - [Visual Studio Code for Mac Older Download Links](https://www.junian.dev/downloads/vscode-for-mac/) <sub>September 28, 2026</sub>
-- [All Visual Studio Code Versions for Mac](https://www.junian.dev/downloads/all-visual-studio-code-versions-mac/) <sub>September 27, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }

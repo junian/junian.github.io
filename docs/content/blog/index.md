@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Oct 02, 2026` [Formatting SSD or HDD on Windows 11](https://www.junian.dev/blog/windows-format-ssd-hdd/)
 - `Oct 01, 2026` [All Firefox Versions for Mac](https://www.junian.dev/downloads/all-firefox-versions-mac/)
 - `Sep 30, 2026` [Changing Default Cloudflare Node.js Version](https://www.junian.dev/blog/change-cloudflare-node-version/)
 - `Sep 29, 2026` [Windows HEVC Video Extensions FREE Download](https://www.junian.dev/blog/windows-hevc-video-extensions/)
