@@ -22,6 +22,7 @@ With the rise of Generative AI, I want to be the part of the last human group wh
 Following are the latest 15 videos I've created.
 
 <!-- youtube feed start -->
+- `Oct 04, 2026` [How to use Touch ID to authenticate sudo on Mac #macos #terminal #touchid](https://www.youtube.com/shorts/JiA-W27yCBE)
 - `Sep 30, 2026` [Using macOS Touch ID for sudo! No more typing password!](https://www.youtube.com/watch?v=Q9KJcovMX_4)
 - `Apr 22, 2026` [How to Download and Install Visual Studio 2013 Community in 2026 - Old Visual Studio Versions](https://www.youtube.com/watch?v=7JPRpcBX0yA)
 - `Mar 25, 2026` [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw)
@@ -36,7 +37,6 @@ Following are the latest 15 videos I've created.
 - `Feb 18, 2026` [How to Disable Liquid Glass on iPad (iPadOS 26) – Reduce Transparency for Better Readability on iPad](https://www.youtube.com/watch?v=3BG6uVkgNsc)
 - `Feb 17, 2026` [How to Download and Install Visual Studio 2015 Community Edition in 2026 - Old Visual Studio Version](https://www.youtube.com/watch?v=jiCI4KK7aWw)
 - `Feb 13, 2026` [How to Disable Liquid Glass on macOS 26 Tahoe - Reduce Transparency of any macOS UI](https://www.youtube.com/watch?v=MddF_MUFBBI)
-- `Feb 12, 2026` [How to Download and Install Visual Studio 2017 Community in 2026 and Fixing Startup Error](https://www.youtube.com/watch?v=caHVWmJjHuE)
 <!-- youtube feed end -->
 
 [**See more**](/youtube/){: .btn .btn-blue }
