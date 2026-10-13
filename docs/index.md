@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/) <sub>October 11, 2026</sub>
 - [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/) <sub>October 10, 2026</sub>
 - [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/) <sub>October 09, 2026</sub>
 - [Microsoft OneNote for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-onenote-mac/) <sub>October 08, 2026</sub>
 - [Microsoft Outlook for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-outlook-mac/) <sub>October 07, 2026</sub>
-- [Microsoft PowerPoint for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-powerpoint-mac/) <sub>October 06, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
