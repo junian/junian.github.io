@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/) <sub>October 12, 2026</sub>
 - [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/) <sub>October 11, 2026</sub>
 - [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/) <sub>October 10, 2026</sub>
 - [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/) <sub>October 09, 2026</sub>
 - [Microsoft OneNote for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-onenote-mac/) <sub>October 08, 2026</sub>
-- [Microsoft Outlook for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-outlook-mac/) <sub>October 07, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
@@ -88,11 +88,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 🎬 Recent YouTube Videos
 
 <!-- youtube feed start -->
-- [How to use Touch ID to authenticate sudo on Mac #macos #terminal #touchid](https://www.youtube.com/shorts/JiA-W27yCBE) <sub>October 04, 2026</sub>
 - [Using macOS Touch ID for sudo! No more typing password!](https://www.youtube.com/watch?v=Q9KJcovMX_4) <sub>September 30, 2026</sub>
 - [How to Download and Install Visual Studio 2013 Community in 2026 - Old Visual Studio Versions](https://www.youtube.com/watch?v=7JPRpcBX0yA) <sub>April 22, 2026</sub>
 - [Setting MacBook 80% Battery Charge Limit without 3rd party app - macOS Tahoe 26.4 New Feature!](https://www.youtube.com/watch?v=Tl66jvgKMGw) <sub>March 25, 2026</sub>
 - [Start macOS Recovery Internet Access without Wi-Fi (USB-C to Ethernet, Android Ethernet Tethering)](https://www.youtube.com/watch?v=IBQ2k9i434A) <sub>March 17, 2026</sub>
+- [Build a Travel Agency Page - freeCodeCamp Responsive Web Design HTML Lab Guide](https://www.youtube.com/watch?v=xXj53A_5sMY) <sub>March 04, 2026</sub>
 <!-- youtube feed end -->
 
 [**See more**](/content/youtube/){: .btn .btn-blue }

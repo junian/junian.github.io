@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Oct 12, 2026` [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/)
 - `Oct 11, 2026` [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/)
 - `Oct 10, 2026` [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/)
 - `Oct 09, 2026` [Microsoft Edge for Mac All Versions Download (2026)](https://www.junian.dev/downloads/microsoft-edge-mac/)
@@ -167,7 +168,6 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Feb 02, 2026` [How to Set the Default Hugo Archetypes to the Next Day](https://www.junian.dev/blog/hugo-archetypes-default-date-next-day/)
 - `Feb 01, 2026` [Rotate Video with FFmpeg](https://www.junian.dev/blog/ffmpeg-rotate-video/)
 - `Feb 01, 2026` [January 2026 Monthly Report](https://www.junian.dev/blog/2026-01-monthly-report/)
-- `Jan 31, 2026` [Old Pages, Numbers, and Keynote iWork macOS App Download Links](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/)
 - `Jan 30, 2026` [How to Deploy a Blazor WebAssembly Standalone App to GitHub Pages](https://www.junian.dev/blog/deploy-blazor-webassembly-standalone-to-github-pages/)
 - `Jan 29, 2026` [How to Check Disk Drive Allocation Unit Size on Windows](https://www.junian.dev/blog/windows-check-allocation-unit-size/)
 - `Jan 28, 2026` [Deploy a .NET 10 Blazor WebAssembly App to Cloudflare Pages](https://www.junian.dev/blog/deploy-blazor-to-cloudflare-pages/)
@@ -184,7 +184,7 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Nov 24, 2025` [macOS Screen Mirror Keyboard Shortcut](https://www.junian.dev/blog/macos-screen-mirror-keyboard-shortcut/)
 - `Nov 21, 2025` [Visual Studio Professional Downloads - 2026, 2022, 2019, 2017, 2015, 2013](https://www.junian.dev/downloads/visual-studio-professional/)
 - `Nov 21, 2025` [Visual Studio Enterprise Downloads - 2026, 2022, 2019, 2017, 2015](https://www.junian.dev/downloads/visual-studio-enterprise/)
-- `Nov 19, 2025` [Download Microsoft Remote Desktop for Mac](https://www.junian.dev/downloads/remote-desktop-client-for-mac/)
+- `Nov 19, 2025` [Download Microsoft Remote Desktop for Mac - All Versions](https://www.junian.dev/downloads/remote-desktop-client-for-mac/)
 - `Nov 12, 2025` [Visual Studio Community Downloads - 2026, 2022, 2019, 2017, 2015, 2013](https://www.junian.dev/downloads/visual-studio-community/)
 - `Nov 04, 2025` [Microsoft SQL Server on Apple Silicon ARM64 Mac](https://www.junian.dev/blog/microsoft-sql-server-apple-silicon-mac/)
 - `Nov 02, 2025` [How to Change the Default Screenshot Folder on macOS](https://www.junian.dev/blog/macos-change-screenshot-folder/)
