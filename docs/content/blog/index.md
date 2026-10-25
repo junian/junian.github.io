@@ -28,6 +28,9 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Oct 24, 2026` [Office Reset Tool for Mac - All Versions Download](https://www.junian.dev/downloads/office-reset-mac/)
+- `Oct 23, 2026` [Using git on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-git-custom-ca-cert/)
+- `Oct 22, 2026` [Using cURL on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-curl-custom-ca-cert/)
 - `Oct 12, 2026` [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/)
 - `Oct 11, 2026` [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/)
 - `Oct 10, 2026` [Running Multiple pnpm Scripts with A Single Command](https://www.junian.dev/blog/pnpm-run-multiple-scripts/)
@@ -74,8 +77,8 @@ Following section is list of articles or posts I've wrote ordered by published d
 - `Jun 13, 2026` [SQL Server Management Studio (SSMS) - All Versions Download](https://www.junian.dev/downloads/ssms/)
 - `Jun 13, 2026` [Microsoft SQL Server Express All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-express/)
 - `Jun 12, 2026` [Microsoft SQL Server Developer All Versions Download - 2025, 2022, 2019, 2017](https://www.junian.dev/downloads/sql-server-developer/)
-- `Jun 11, 2026` [Microsoft Access Database Engine Redistributable Downloads](https://www.junian.dev/downloads/access-database-engine/)
-- `Jun 11, 2026` [Microsoft Access Runtime Download Links](https://www.junian.dev/downloads/access-runtime/)
+- `Jun 11, 2026` [Microsoft Access Database Engine Redistributable - All Versions Download](https://www.junian.dev/downloads/access-database-engine/)
+- `Jun 11, 2026` [Microsoft Access Runtime - All Versions Download (2026)](https://www.junian.dev/downloads/access-runtime/)
 - `Jun 10, 2026` [Download and Install Visual Studio 2015 Community Edition](https://www.junian.dev/blog/install-visual-studio-2015/)
 - `Jun 09, 2026` [How to fix Docker exec: Entrypoint: Permission Denied: Unknown](https://www.junian.dev/blog/docker-exec-entrypoint-sh-permission-denied/)
 - `Jun 08, 2026` [Download Windows App for Mac (New MS Remote Desktop)](https://www.junian.dev/downloads/windows-app-for-mac/)
