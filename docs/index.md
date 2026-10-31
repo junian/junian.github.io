@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
+- [Running Microsoft SQL Server with Docker Compose](https://www.junian.dev/blog/sql-server-docker-compose/) <sub>October 26, 2026</sub>
+- [September 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-09-monthly-report/) <sub>October 25, 2026</sub>
 - [Office Reset Tool for Mac - All Versions Download](https://www.junian.dev/downloads/office-reset-mac/) <sub>October 24, 2026</sub>
 - [Using git on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-git-custom-ca-cert/) <sub>October 23, 2026</sub>
 - [Using cURL on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-curl-custom-ca-cert/) <sub>October 22, 2026</sub>
-- [Download Older Pages, Numbers, and Keynote from Mac App Store](https://www.junian.dev/blog/macos-old-pages-numbers-keynote-download-links/) <sub>October 12, 2026</sub>
-- [How to "Ctrl + Alt + Del" or Open Task Manager on Mac](https://www.junian.dev/blog/mac-ctrl-alt-del-task-manager/) <sub>October 11, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
