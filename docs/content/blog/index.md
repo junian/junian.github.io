@@ -28,6 +28,11 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Nov 05, 2026` [WinForms .NET Apps - Demos and Examples](https://www.junian.dev/dotnet-winforms-apps/)
+- `Nov 04, 2026` [HashPeek - Open Source Cross-platform File Checksum Tool](https://www.junian.dev/hashpeek/)
+- `Nov 03, 2026` [Official Robots.txt Entry to Block AI from Training on Website Content](https://www.junian.dev/blog/robots-txt-ai-training/)
+- `Nov 02, 2026` [October 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-10-monthly-report/)
+- `Nov 01, 2026` [Do This to Stop Samsung Galaxy Phone Sending Ads](https://www.junian.dev/blog/samsung-galaxy-phone-without-ads/)
 - `Oct 26, 2026` [Running Microsoft SQL Server with Docker Compose](https://www.junian.dev/blog/sql-server-docker-compose/)
 - `Oct 25, 2026` [September 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-09-monthly-report/)
 - `Oct 24, 2026` [Office Reset Tool for Mac - All Versions Download](https://www.junian.dev/downloads/office-reset-mac/)

@@ -76,11 +76,11 @@ Hi 👋, I'm **Junian** the **System and Software Engineer**. Welcome to my humb
 ## 📝 Recent Blog Posts
 
 <!-- blog feed start -->
-- [Running Microsoft SQL Server with Docker Compose](https://www.junian.dev/blog/sql-server-docker-compose/) <sub>October 26, 2026</sub>
-- [September 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-09-monthly-report/) <sub>October 25, 2026</sub>
-- [Office Reset Tool for Mac - All Versions Download](https://www.junian.dev/downloads/office-reset-mac/) <sub>October 24, 2026</sub>
-- [Using git on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-git-custom-ca-cert/) <sub>October 23, 2026</sub>
-- [Using cURL on Mac with Custom Certificate - eMudhra CA Fix](https://www.junian.dev/blog/mac-curl-custom-ca-cert/) <sub>October 22, 2026</sub>
+- [WinForms .NET Apps - Demos and Examples](https://www.junian.dev/dotnet-winforms-apps/) <sub>November 05, 2026</sub>
+- [HashPeek - Open Source Cross-platform File Checksum Tool](https://www.junian.dev/hashpeek/) <sub>November 04, 2026</sub>
+- [Official Robots.txt Entry to Block AI from Training on Website Content](https://www.junian.dev/blog/robots-txt-ai-training/) <sub>November 03, 2026</sub>
+- [October 2026 Monthly Growth Report](https://www.junian.dev/blog/2026-10-monthly-report/) <sub>November 02, 2026</sub>
+- [Do This to Stop Samsung Galaxy Phone Sending Ads](https://www.junian.dev/blog/samsung-galaxy-phone-without-ads/) <sub>November 01, 2026</sub>
 <!-- blog feed end -->
 
 [**See more**](/content/blog/){: .btn .btn-blue }
