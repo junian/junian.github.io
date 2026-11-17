@@ -28,6 +28,7 @@ One of the prizes was a voucher to buy a domain, so I purchased [junian.net](htt
 Following section is list of articles or posts I've wrote ordered by published date.
 
 <!-- feed start -->
+- `Nov 16, 2026` [cURL Download File: Commands for Mac, Linux and Windows](https://www.junian.dev/blog/curl-download-file/)
 - `Nov 05, 2026` [WinForms .NET Apps - Demos and Examples](https://www.junian.dev/dotnet-winforms-apps/)
 - `Nov 04, 2026` [HashPeek - Open Source Cross-platform File Checksum Tool](https://www.junian.dev/hashpeek/)
 - `Nov 03, 2026` [Official Robots.txt Entry to Block AI from Training on Website Content](https://www.junian.dev/blog/robots-txt-ai-training/)
